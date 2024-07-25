@@ -78,7 +78,6 @@ parts:
           sections: 
           - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30.01 Coriolis (3)/1E30.01 Coriolis (3).md
           - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30.01 Cross Product/1E30.01 Cross Product.md
-          - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.05 Coriolis (3)/1E20.05 Coriolis (3).md
 
         # files related to section '1F newton's first law'
       - file: book/1 mechanics/1F newton's first law/1F newton's first law.md
