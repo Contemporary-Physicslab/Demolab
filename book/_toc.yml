@@ -377,245 +377,245 @@ parts:
           sections: 
           - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3001 Dippy Bird/4F3001.md
           - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3002 Stirling Engine/4F3002.md
-  # - caption: Electromagnetism
-  #   chapters:    
-  #   - file: book/5 EM/5 TOC.md
-  #     sections: 
-  #     - file: book/5 EM/5A electrostatics/5A TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5A electrostatics/5A10 Producing Static Charge/5A10 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5A electrostatics/5A10 Producing Static Charge/5A1001 E Field in Material/5A1001.md
-  #       - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A20 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A2001 Coulombs Law/5A2001.md
-  #         - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A2002 E Field in Material/5A2002.md
-  #       - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A40 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4001 Charging by Induction/5A4001.md
-  #         - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4002 Polarising a Dielectric/5A4002.md
-  #         - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4003 E Field in Material/5A4003.md
-  #         - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4004 Water Dropper/5A4004.md
-  #       - file: book/5 EM/5A electrostatics/5A50 Electrostatic Machines/5A50 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5A electrostatics/5A50 Electrostatic Machines/5A5001 Water Dropper/5A5001.md
-  #     - file: book/5 EM/5B electric fields and potential/5B TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B10 TOC.md
-  #         sections:
-  #         - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B1001 Charge and Field/5B1001.md
-  #         - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B1002 Charge is on the Outside/5B1002.md
-  #       - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B20 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2001 Gauss Law/5B2001.md
-  #         - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2002 Charge is on the Outside/5B2002.md
-  #         - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2003 Charge and Field/5B2003.md
-  #     - file: book/5 EM/5C capacitance/5C TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5C capacitance/5C10 Capacitors/5C10 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5C capacitance/5C10 Capacitors/5C1020 Capacitor Spacing between the Plates/5C1020.md
-  #       - file: book/5 EM/5C capacitance/5C20 Dielectric/5C20 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5C capacitance/5C20 Dielectric/5C2001 Polarising a Dielectric/5C2001.md
-  #         - file: book/5 EM/5C capacitance/5C20 Dielectric/5C2002 Capacitor/5C2002.md
-  #       - file: book/5 EM/5C capacitance/5C30 Energy stored in a capacitor/5C30 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5C capacitance/5C30 Energy stored in a capacitor/5C3001 Capacitor/5C3001.md
-  #     - file: book/5 EM/5D resistance/5D TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D20 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2001 PTC/5D2001.md
-  #         - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2002 NTC/5D2002.md
-  #     - file: book/5 EM/5E electromotive force and current/5E TOC.md
-  #     - file: book/5 EM/5F DC circuits/5F TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5F DC circuits/5F15 Power and Energy/5F15 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5F DC circuits/5F15 Power and Energy/5F1501 Fuse Wires Parallel/5F1501.md
-  #       - file: book/5 EM/5F DC circuits/5F20 Circuit Analysis/5F20 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5F DC circuits/5F20 Circuit Analysis/5F2001 Fuse Wires Parallel/5F2001.md
-  #     - file: book/5 EM/5G magnetic materials/5G TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G2001 Barkhausen Effect/5G2001.md
-  #         - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G2002 Barkhausen Effect/5G2002.md
-  #       - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G40 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G4001 Barkhausen Effect/5G4001.md
-  #         - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G4002 Barkhausen Effect/5G4002.md
-  #     - file: book/5 EM/5H magnetic fields and forces/5H TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5H magnetic fields and forces/5H10 Magnetic Fields/5H10 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5H magnetic fields and forces/5H10 Magnetic Fields/5H1001 Magnetic Fields/5H1001.md
-  #       - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H20 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H2001 Force between Magnets/5H2001.md
-  #         - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H2002 Force between Magnets/5H2002.md
+  - caption: Electromagnetism
+    chapters:    
+    - file: book/5 EM/5 TOC.md
+      sections: 
+      - file: book/5 EM/5A electrostatics/5A TOC.md
+        sections: 
+        - file: book/5 EM/5A electrostatics/5A10 Producing Static Charge/5A10 TOC.md
+          sections: 
+          - file: book/5 EM/5A electrostatics/5A10 Producing Static Charge/5A1001 E Field in Material/5A1001.md
+        - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A20 TOC.md
+          sections: 
+          - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A2001 Coulombs Law/5A2001.md
+          - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A2002 E Field in Material/5A2002.md
+        - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A40 TOC.md
+          sections: 
+          - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4001 Charging by Induction/5A4001.md
+          - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4002 Polarising a Dielectric/5A4002.md
+          - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4003 E Field in Material/5A4003.md
+          - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4004 Water Dropper/5A4004.md
+        - file: book/5 EM/5A electrostatics/5A50 Electrostatic Machines/5A50 TOC.md
+          sections: 
+          - file: book/5 EM/5A electrostatics/5A50 Electrostatic Machines/5A5001 Water Dropper/5A5001.md
+      - file: book/5 EM/5B electric fields and potential/5B TOC.md
+        sections: 
+        - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B10 TOC.md
+          sections:
+          - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B1001 Charge and Field/5B1001.md
+          - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B1002 Charge is on the Outside/5B1002.md
+        - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B20 TOC.md
+          sections: 
+          - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2001 Gauss Law/5B2001.md
+          - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2002 Charge is on the Outside/5B2002.md
+          - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2003 Charge and Field/5B2003.md
+      - file: book/5 EM/5C capacitance/5C TOC.md
+        sections: 
+        - file: book/5 EM/5C capacitance/5C10 Capacitors/5C10 TOC.md
+          sections: 
+          - file: book/5 EM/5C capacitance/5C10 Capacitors/5C1020 Capacitor Spacing between the Plates/5C1020.md
+        - file: book/5 EM/5C capacitance/5C20 Dielectric/5C20 TOC.md
+          sections: 
+          - file: book/5 EM/5C capacitance/5C20 Dielectric/5C2001 Polarising a Dielectric/5C2001.md
+          - file: book/5 EM/5C capacitance/5C20 Dielectric/5C2002 Capacitor/5C2002.md
+        - file: book/5 EM/5C capacitance/5C30 Energy stored in a capacitor/5C30 TOC.md
+          sections: 
+          - file: book/5 EM/5C capacitance/5C30 Energy stored in a capacitor/5C3001 Capacitor/5C3001.md
+      - file: book/5 EM/5D resistance/5D TOC.md
+        sections: 
+        - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D20 TOC.md
+          sections: 
+          - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2001 PTC/5D2001.md
+          - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2002 NTC/5D2002.md
+      - file: book/5 EM/5E electromotive force and current/5E TOC.md
+      - file: book/5 EM/5F DC circuits/5F TOC.md
+        sections: 
+        - file: book/5 EM/5F DC circuits/5F15 Power and Energy/5F15 TOC.md
+          sections: 
+          - file: book/5 EM/5F DC circuits/5F15 Power and Energy/5F1501 Fuse Wires Parallel/5F1501.md
+        - file: book/5 EM/5F DC circuits/5F20 Circuit Analysis/5F20 TOC.md
+          sections: 
+          - file: book/5 EM/5F DC circuits/5F20 Circuit Analysis/5F2001 Fuse Wires Parallel/5F2001.md
+      - file: book/5 EM/5G magnetic materials/5G TOC.md
+        sections: 
+        - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20 TOC.md
+          sections: 
+          - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G2001 Barkhausen Effect/5G2001.md
+          - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G2002 Barkhausen Effect/5G2002.md
+        - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G40 TOC.md
+          sections: 
+          - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G4001 Barkhausen Effect/5G4001.md
+          - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G4002 Barkhausen Effect/5G4002.md
+      - file: book/5 EM/5H magnetic fields and forces/5H TOC.md
+        sections: 
+        - file: book/5 EM/5H magnetic fields and forces/5H10 Magnetic Fields/5H10 TOC.md
+          sections: 
+          - file: book/5 EM/5H magnetic fields and forces/5H10 Magnetic Fields/5H1001 Magnetic Fields/5H1001.md
+        - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H20 TOC.md
+          sections: 
+          - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H2001 Force between Magnets/5H2001.md
+          - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H2002 Force between Magnets/5H2002.md
 
-  #       - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H30 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3001 Force on Electrons in a Magnetic Field/5H3001.md
-  #         - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3002 Force on Electrons in a Magnetic Field/5H3002.md
-  #       - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H40 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4001 Force Effect of Current/5H4001.md
-  #         - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4002 Lorentz Force/5H4002.md
-  #         - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4003 Lorentz Force/5H4003.md
-  #         - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4004 Parallel Wires/5H4004.md
-  #       - file: book/5 EM/5H magnetic fields and forces/5H50 Torques on Coils/5H50 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5H magnetic fields and forces/5H50 Torques on Coils/5H5001 Current Loop in Magnetic Field/5H5001.md
-  #     - file: book/5 EM/5J inductance/5J TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5J inductance/5J10 Self Inductance/5J10 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5J inductance/5J10 Self Inductance/5J1001 Self Inductance in AC Circuit/5J1001.md
-  #     - file: book/5 EM/5K electromagnetic induction/5K TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K10 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K1001 Damped Galvanometer/5K1001.md
-  #         - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K1002 Skipping Rope/5K1002.md
-  #       - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K20 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K2001 Aragos Compass Needle/5K2001.md
-  #         - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K2002 Aragos Disk/5K2002.md
-  #       - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K30 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K3001 Electric Power Transmission Line/5K3001.md
-  #         - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K3002 Transformer/5K3002.md
-  #       - file: book/5 EM/5K electromagnetic induction/5K40 Motors and Generators/5K40 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5K electromagnetic induction/5K40 Motors and Generators/5K4001 Electric Motor/5K4001.md
-  #     - file: book/5 EM/5L AC circuits/5L TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L20 TOC.md
-  #         sections: 
-  #         - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2001 Self Inductance in AC Circuit/5L2001.md
-  #         - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2002 Phase/5L2002.md
-  #         - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2003 LRC Circuits/5L2003.md
-  #     - file: book/5 EM/5M semiconductors and tubes/5M TOC.md
-  #     - file: book/5 EM/5N electromagnetic radiation/5N TOC.md
-  #       sections: 
-  #       - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N10 TOC.md
-  #         sections:
-  #         - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N1001 Electromagnetic Waves Lecher Lines/5N1001.md
-  #         - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N1002 Microwave Oven Standing Waves/5N1002.md
-  # - caption: 6 optics
-  #   chapters:
-  #   - file: book/6 optics/6 TOC.md
-  #     sections: 
-  #     - file: book/6 optics/6A geometrical optics/6A TOC.md
-  #       sections: 
-  #       - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A01 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A0101 Foucault Michelson/6A0101.md
-  #       - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A10 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A1001 Confusing Mirrors/6A1001.md
-  #         - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A1002 Corner Cube/6A1002.md
-  #       - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4001 Chromatic Aberration/6A4001.md
-  #         - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4002 Curved Lightbeams/6A4002.md
-  #       - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A42 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A4201 Brewsters Angle/6A4201.md
-  #       - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4401 Brewsters Angle/6A4401.md
-  #         - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4402 Tunneling/6A4402.md
-  #       - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A60 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A6001 Chromatic Aberration/6A6001.md
-  #       - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A70 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A7001 Magnifying Glass/6A7001.md
-  #     - file: book/6 optics/6B photometry/6B TOC.md
-  #       sections: 
-  #       - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B30 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B3001 Radiation Pressure/6B3001.md
-  #     - file: book/6 optics/6C diffraction/6C TOC.md
-  #       sections: 
-  #       - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1001 Resolution/6C1001.md
-  #         - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1002 Fraunhofer and Fresnel Diffraction/6C1002.md
-  #         - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1003 Youngs Double Slit/6C1003.md
-  #       - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2001 Diffraction introduction/6C2001.md
-  #         - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2002 Diffraction Single Slit/6C2002.md
-  #         - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2003 Diffraction Single Slit/6C2003.md
-  #         - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2004 Fraunhofer and Fresnel Diffraction/6C2004.md
-  #     - file: book/6 optics/6D interference/6D TOC.md
-  #       sections: 
-  #       - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1001 Fresnel Double Mirror/6D1001.md
-  #         - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1002 Fresnel Double Prism/6D1002.md
-  #         - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1003 Lloyds Mirror/6D1003.md
-  #         - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1004 Youngs Double Slit/6D1004.md
-  #       - file: book/6 optics/6D interference/6D20 Lasers/6D20 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6D interference/6D20 Lasers/6D2001 Speckle Spots and random Diffraction/6D2001.md
-  #       - file: book/6 optics/6D interference/6D30 Thin Films/6D30 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6D interference/6D30 Thin Films/6D3001 Newtons Rings/6D3001.md
-  #         - file: book/6 optics/6D interference/6D30 Thin Films/6D3002 Newtons Rings/6D3002.md
-  #         - file: book/6 optics/6D interference/6D30 Thin Films/6D3003 Oil Film/6D3003.md
-  #         - file: book/6 optics/6D interference/6D30 Thin Films/6D3004 Soap Film/6D3004.md
-  #     - file: book/6 optics/6F color/6F TOC.md
-  #       sections: 
-  #       - file: book/6 optics/6F color/6F30 Dispersion/6F30 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6F color/6F30 Dispersion/6F3001 Chromatic Aberration/6F3001.md
-  #     - file: book/6 optics/6H polarisation/6H TOC.md
-  #       sections: 
-  #       - file: book/6 optics/6H polarisation/6H20 Reflection/6H20 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6H polarisation/6H20 Reflection/6H2001 Brewsters Angle/6H2001.md
-  #         - file: book/6 optics/6H polarisation/6H20 Reflection/6H2002 Brewsters Angle/6H2002.md
-  #         - file: book/6 optics/6H polarisation/6H20 Reflection/6H2003 Brewsters Angle/6H2003.md
-  #       - file: book/6 optics/6H polarisation/6H35 Birefringence/6H35 TOC.md
-  #         sections: 
-  #         - file: book/6 optics/6H polarisation/6H35 Birefringence/6H3501 Brewsters Angle/6H3501.md
-  #     # - file: book/6 optics/6J the eye/6J TOC.md
-  #     # - file: book/6 optics/6Q modern optics/6Q TOC.md
-  # - caption: 7 modern physics
-  #   chapters:
-  #   - file: book/7 modern physics/7 TOC.md
-  #     sections: 
-  #     - file: book/7 modern physics/7A quantum effects/7A TOC.md
-  #       sections: 
-  #       - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50 TOC.md
-  #         sections: 
-  #         - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5001 deBroglie Applied to Bohr/7A5001.md
-  #         - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5002 Tunneling/7A5002.md
-  #       - file: book/7 modern physics/7A quantum effects/7A60 X ray and Electron Diffraction/7A60 TOC.md
-  #         sections: 
-  #         - file: book/7 modern physics/7A quantum effects/7A60 X ray and Electron Diffraction/7A6001 Bragg Scattering/7A6001.md
-  #     - file: book/7 modern physics/7B atomic physics/7B TOC.md
-  #       sections: 
-  #       - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10 TOC.md
-  #         sections: 
-  #         - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B1001 Balmer Series/7B1001.md
-  #       - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50 TOC.md
-  #         sections: 
-  #         - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B5001 deBroglie Applied to Bohr/7B5001.md
-  #     # - file: book/7 modern physics/7D nuclear physics/7D TOC.md
-  #     - file: book/7 modern physics/7E elementary particles/7E TOC.md
-  #     - file: book/7 modern physics/7F relativity/7F TOC.md
-  #       sections: 
-  #       - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10 TOC.md
-  #         sections: 
-  #         - file: book/7 modern physics/7F relativity/7F10 Relativity/7F1001 E mc2/7F1001.md
+        - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H30 TOC.md
+          sections: 
+          - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3001 Force on Electrons in a Magnetic Field/5H3001.md
+          - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3002 Force on Electrons in a Magnetic Field/5H3002.md
+        - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H40 TOC.md
+          sections: 
+          - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4001 Force Effect of Current/5H4001.md
+          - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4002 Lorentz Force/5H4002.md
+          - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4003 Lorentz Force/5H4003.md
+          - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4004 Parallel Wires/5H4004.md
+        - file: book/5 EM/5H magnetic fields and forces/5H50 Torques on Coils/5H50 TOC.md
+          sections: 
+          - file: book/5 EM/5H magnetic fields and forces/5H50 Torques on Coils/5H5001 Current Loop in Magnetic Field/5H5001.md
+      - file: book/5 EM/5J inductance/5J TOC.md
+        sections: 
+        - file: book/5 EM/5J inductance/5J10 Self Inductance/5J10 TOC.md
+          sections: 
+          - file: book/5 EM/5J inductance/5J10 Self Inductance/5J1001 Self Inductance in AC Circuit/5J1001.md
+      - file: book/5 EM/5K electromagnetic induction/5K TOC.md
+        sections: 
+        - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K10 TOC.md
+          sections: 
+          - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K1001 Damped Galvanometer/5K1001.md
+          - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K1002 Skipping Rope/5K1002.md
+        - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K20 TOC.md
+          sections: 
+          - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K2001 Aragos Compass Needle/5K2001.md
+          - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K2002 Aragos Disk/5K2002.md
+        - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K30 TOC.md
+          sections: 
+          - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K3001 Electric Power Transmission Line/5K3001.md
+          - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K3002 Transformer/5K3002.md
+        - file: book/5 EM/5K electromagnetic induction/5K40 Motors and Generators/5K40 TOC.md
+          sections: 
+          - file: book/5 EM/5K electromagnetic induction/5K40 Motors and Generators/5K4001 Electric Motor/5K4001.md
+      - file: book/5 EM/5L AC circuits/5L TOC.md
+        sections: 
+        - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L20 TOC.md
+          sections: 
+          - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2001 Self Inductance in AC Circuit/5L2001.md
+          - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2002 Phase/5L2002.md
+          - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2003 LRC Circuits/5L2003.md
+      - file: book/5 EM/5M semiconductors and tubes/5M TOC.md
+      - file: book/5 EM/5N electromagnetic radiation/5N TOC.md
+        sections: 
+        - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N10 TOC.md
+          sections:
+          - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N1001 Electromagnetic Waves Lecher Lines/5N1001.md
+          - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N1002 Microwave Oven Standing Waves/5N1002.md
+  - caption: 6 optics
+    chapters:
+    - file: book/6 optics/6 TOC.md
+      sections: 
+      - file: book/6 optics/6A geometrical optics/6A TOC.md
+        sections: 
+        - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A01 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A0101 Foucault Michelson/6A0101.md
+        - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A10 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A1001 Confusing Mirrors/6A1001.md
+          - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A1002 Corner Cube/6A1002.md
+        - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4001 Chromatic Aberration/6A4001.md
+          - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4002 Curved Lightbeams/6A4002.md
+        - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A42 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A4201 Brewsters Angle/6A4201.md
+        - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4401 Brewsters Angle/6A4401.md
+          - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4402 Tunneling/6A4402.md
+        - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A60 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A6001 Chromatic Aberration/6A6001.md
+        - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A70 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A7001 Magnifying Glass/6A7001.md
+      - file: book/6 optics/6B photometry/6B TOC.md
+        sections: 
+        - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B30 TOC.md
+          sections: 
+          - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B3001 Radiation Pressure/6B3001.md
+      - file: book/6 optics/6C diffraction/6C TOC.md
+        sections: 
+        - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10 TOC.md
+          sections: 
+          - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1001 Resolution/6C1001.md
+          - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1002 Fraunhofer and Fresnel Diffraction/6C1002.md
+          - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1003 Youngs Double Slit/6C1003.md
+        - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20 TOC.md
+          sections: 
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2001 Diffraction introduction/6C2001.md
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2002 Diffraction Single Slit/6C2002.md
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2003 Diffraction Single Slit/6C2003.md
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2004 Fraunhofer and Fresnel Diffraction/6C2004.md
+      - file: book/6 optics/6D interference/6D TOC.md
+        sections: 
+        - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10 TOC.md
+          sections: 
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1001 Fresnel Double Mirror/6D1001.md
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1002 Fresnel Double Prism/6D1002.md
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1003 Lloyds Mirror/6D1003.md
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1004 Youngs Double Slit/6D1004.md
+        - file: book/6 optics/6D interference/6D20 Lasers/6D20 TOC.md
+          sections: 
+          - file: book/6 optics/6D interference/6D20 Lasers/6D2001 Speckle Spots and random Diffraction/6D2001.md
+        - file: book/6 optics/6D interference/6D30 Thin Films/6D30 TOC.md
+          sections: 
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D3001 Newtons Rings/6D3001.md
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D3002 Newtons Rings/6D3002.md
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D3003 Oil Film/6D3003.md
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D3004 Soap Film/6D3004.md
+      - file: book/6 optics/6F color/6F TOC.md
+        sections: 
+        - file: book/6 optics/6F color/6F30 Dispersion/6F30 TOC.md
+          sections: 
+          - file: book/6 optics/6F color/6F30 Dispersion/6F3001 Chromatic Aberration/6F3001.md
+      - file: book/6 optics/6H polarisation/6H TOC.md
+        sections: 
+        - file: book/6 optics/6H polarisation/6H20 Reflection/6H20 TOC.md
+          sections: 
+          - file: book/6 optics/6H polarisation/6H20 Reflection/6H2001 Brewsters Angle/6H2001.md
+          - file: book/6 optics/6H polarisation/6H20 Reflection/6H2002 Brewsters Angle/6H2002.md
+          - file: book/6 optics/6H polarisation/6H20 Reflection/6H2003 Brewsters Angle/6H2003.md
+        - file: book/6 optics/6H polarisation/6H35 Birefringence/6H35 TOC.md
+          sections: 
+          - file: book/6 optics/6H polarisation/6H35 Birefringence/6H3501 Brewsters Angle/6H3501.md
+      - file: book/6 optics/6J the eye/6J TOC.md
+      - file: book/6 optics/6Q modern optics/6Q TOC.md
+  - caption: 7 modern physics
+    chapters:
+    - file: book/7 modern physics/7 TOC.md
+      sections: 
+      - file: book/7 modern physics/7A quantum effects/7A TOC.md
+        sections: 
+        - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50 TOC.md
+          sections: 
+          - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5001 deBroglie Applied to Bohr/7A5001.md
+          - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5002 Tunneling/7A5002.md
+        - file: book/7 modern physics/7A quantum effects/7A60 X ray and Electron Diffraction/7A60 TOC.md
+          sections: 
+          - file: book/7 modern physics/7A quantum effects/7A60 X ray and Electron Diffraction/7A6001 Bragg Scattering/7A6001.md
+      - file: book/7 modern physics/7B atomic physics/7B TOC.md
+        sections: 
+        - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10 TOC.md
+          sections: 
+          - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B1001 Balmer Series/7B1001.md
+        - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50 TOC.md
+          sections: 
+          - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B5001 deBroglie Applied to Bohr/7B5001.md
+      # - file: book/7 modern physics/7D nuclear physics/7D TOC.md
+      - file: book/7 modern physics/7E elementary particles/7E TOC.md
+      - file: book/7 modern physics/7F relativity/7F TOC.md
+        sections: 
+        - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10 TOC.md
+          sections: 
+          - file: book/7 modern physics/7F relativity/7F10 Relativity/7F1001 E mc2/7F1001.md
 
   # - caption: 8 astronomy
   #   chapters:
