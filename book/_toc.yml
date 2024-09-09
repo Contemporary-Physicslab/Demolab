@@ -305,78 +305,78 @@ parts:
         - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50 TOC.md
           sections: 
           - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
-      # - file: book/3 oscillations and waves/3D instruments/3D TOC.md
+      - file: book/3 oscillations and waves/3D instruments/3D TOC.md
       - file: book/3 oscillations and waves/3E sound reproduction/3E TOC.md
-  # - caption: Thermodynamics
-  #   chapters:
-  #   - file: book/4 thermodynamics/4 TOC.md
-  #     sections: 
-  #     - file: book/4 thermodynamics/4A thermal properties of matter/4A TOC.md
-  #       sections: 
-  #       - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A10 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A1001 Constant Volume Gas Thermometer/4A1001.md
-  #         - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A1002 Inverted Thermometer/4A1002.md
-  #     - file: book/4 thermodynamics/4B heat and the first law/4B TOC.md
-  #       sections: 
-  #       - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B10 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B1001 Joules Experiment/4B1001.md
-  #       - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B20 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B2001 Cooling by Insulation/4B2001.md
-  #       - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B30 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B3001 Cooling by Insulation/4B3001.md
-  #       - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B40 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4001 Cooling by Insulation/4B4001.md
-  #         - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4002 StefanBoltzmann Law for Radiation/4B4002.md
-  #       - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B60 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6001 Joules Experiment/4B6001.md
-  #         - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6002 Smashing/4B6002.md
-  #       - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7001 Clements and Desormes Experiment/4B7001.md
-  #         - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7002 Fire Pump/4B7002.md
-  #     - file: book/4 thermodynamics/4C change of state/4C TOC.md
-  #       sections: 
-  #       - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C10 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C1001 Compressing a Gas/4C1001.md
-  #         - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C1002 Work PdV/4C1002.md
-  #       - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes Liquid Gas/4C30 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes Liquid Gas/4C3001 Boiling to Freeze/4C3001.md
-  #       - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C31 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C3101 Evaporating Ether/4C3101.md
-  #       - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C33 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C3301 Dippy Bird/4C3301.md
-  #         - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C3302 Boiling Water at Reduced Pressure/4C3302.md
-  #     - file: book/4 thermodynamics/4D kinetic theory/4D TOC.md
-  #       sections: 
-  #       - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D10 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D1001 Brownian Motion/4D1001.md
-  #       - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D30 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3001 Radiometer of Crooks/4D3001.md
-  #         - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3002 Rain of Balls/4D3002.md
-  #     - file: book/4 thermodynamics/4E gas law/4E TOC.md
-  #     - file: book/4 thermodynamics/4F entropy and the second law/4F TOC.md
-  #       sections: 
-  #       - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1001 Falling Down or Falling Up/4F1001.md
-  #         - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1002 Irreversible Process/4F1002.md
-  #         - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1003 Violation of the Entropy Law/4F1003.md
-  #       - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30 TOC.md
-  #         sections: 
-  #         - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3001 Dippy Bird/4F3001.md
-  #         - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3002 Stirling Engine/4F3002.md
+  - caption: Thermodynamics
+    chapters:
+    - file: book/4 thermodynamics/4 TOC.md
+      sections: 
+      - file: book/4 thermodynamics/4A thermal properties of matter/4A TOC.md
+        sections: 
+        - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A10 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A1001 Constant Volume Gas Thermometer/4A1001.md
+          - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A1002 Inverted Thermometer/4A1002.md
+      - file: book/4 thermodynamics/4B heat and the first law/4B TOC.md
+        sections: 
+        - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B10 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B1001 Joules Experiment/4B1001.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B20 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B2001 Cooling by Insulation/4B2001.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B30 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B3001 Cooling by Insulation/4B3001.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B40 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4001 Cooling by Insulation/4B4001.md
+          - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4002 StefanBoltzmann Law for Radiation/4B4002.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B60 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6001 Joules Experiment/4B6001.md
+          - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6002 Smashing/4B6002.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7001 Clements and Desormes Experiment/4B7001.md
+          - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7002 Fire Pump/4B7002.md
+      - file: book/4 thermodynamics/4C change of state/4C TOC.md
+        sections: 
+        - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C10 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C1001 Compressing a Gas/4C1001.md
+          - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C1002 Work PdV/4C1002.md
+        - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes Liquid Gas/4C30 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes Liquid Gas/4C3001 Boiling to Freeze/4C3001.md
+        - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C31 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C3101 Evaporating Ether/4C3101.md
+        - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C33 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C3301 Dippy Bird/4C3301.md
+          - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C3302 Boiling Water at Reduced Pressure/4C3302.md
+      - file: book/4 thermodynamics/4D kinetic theory/4D TOC.md
+        sections: 
+        - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D10 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D1001 Brownian Motion/4D1001.md
+        - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D30 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3001 Radiometer of Crooks/4D3001.md
+          - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3002 Rain of Balls/4D3002.md
+      - file: book/4 thermodynamics/4E gas law/4E TOC.md
+      - file: book/4 thermodynamics/4F entropy and the second law/4F TOC.md
+        sections: 
+        - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1001 Falling Down or Falling Up/4F1001.md
+          - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1002 Irreversible Process/4F1002.md
+          - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1003 Violation of the Entropy Law/4F1003.md
+        - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3001 Dippy Bird/4F3001.md
+          - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3002 Stirling Engine/4F3002.md
   # - caption: Electromagnetism
   #   chapters:    
   #   - file: book/5 EM/5 TOC.md
