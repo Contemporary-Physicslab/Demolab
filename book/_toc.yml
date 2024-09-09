@@ -225,88 +225,88 @@ parts:
         - file: book/1 mechanics/1R properties of matter/1R10 Hookes Law/1R10 TOC.md
           sections: 
           - file: book/1 mechanics/1R properties of matter/1R10 Hookes Law/1R1001 Hookes Law/1R1001.md
-  # - caption: Fluid Mechanics
-  #   chapters:
-  #   - file: book/2 fluid mechanics/2 TOC.md
-  #     sections: 
-  #     - file: book/2 fluid mechanics/2A surface tension/2A TOC.md
-  #     - file: book/2 fluid mechanics/2B statics/2B TOC.md
-  #       sections: 
-  #       - file: book/2 fluid mechanics/2B statics/2B20 Static Pressure/2B20 TOC.md
-  #         sections: 
-  #         - file: book/2 fluid mechanics/2B statics/2B20 Static Pressure/2B2001 Rotating Liquid/2B2001.md
-  #     - file: book/2 fluid mechanics/2C dynamics/2C TOC.md
-  #       sections: 
-  #       - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C20 TOC.md
-  #         sections: 
-  #         - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2001 Magnus Effect/2C2001.md
-  #         - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2002 Magnus Effect/2C2002.md
-  # - caption: Oscillations and Waves
-  #   chapters:
-  #   - file: book/3 oscillations and waves/3 TOC.md
-  #     sections: 
-  #     - file: book/3 oscillations and waves/3A osc/3A TOC.md
-  #       sections: 
-  #       - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A10 TOC.md
-  #         sections: 
-  #         - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1001 Mathematical Pendulum/3A1001.md
-  #         - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1002 Mathematical Pendulum/3A1002.md
-  #         - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1003 Mathematical Pendulum/3A1003.md
-  #         - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1004 Chaotic Pendulum/3A1004.md
-  #       - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A15 TOC.md
-  #         sections: 
-  #         - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1501 Physical Pendulum/3A1501.md
-  #         - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1502 Physical Pendulum/3A1502.md
-  #         - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1503 Physical Pendulum/3A1503.md
-  #       - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A40 TOC.md
-  #         sections:
-  #         - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4001 Mathematical Pendulum/3A4001.md
-  #         - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4002 Mathematical Pendulum/3A4002.md
-  #         - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4003 Simple Harmonic/3A4003.md
-  #         - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4004 Simple Harmonic/3A4004.md
-  #         - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4005 Simple Harmonic/3A4005.md
-  #       - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A50 TOC.md
-  #         sections: 
-  #         - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5001 Damped Harmonic/3A5001.md
-  #         - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5002 Damped Galvanometer/3A5002.md
-  #       - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A95 TOC.md
-  #         sections: 
-  #         - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A9501 Fakir/3A9501.md
-  #         - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A9502 Chaotic Pendulum/3A9502.md
-  #     - file: book/3 oscillations and waves/3B wave/3B TOC.md
-  #       sections: 
-  #       - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B10 TOC.md
-  #         sections: 
-  #         - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1001 Reflections of Transverse Pulses/3B1001.md
-  #         - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1002 Speed of a Single Pulse on Different Strings/3B1002.md
-  #         - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1003 Reflections of Transverse Pulses/3B1003.md
-  #         - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1004 Speed of a Single Pulse on Different Strings/3B1004.md
-  #         - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1005 Transverse Traveling Wave/3B1005.md
-  #         - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1006 Transverse Traveling Wave/3B1006.md
-  #       - file: book/3 oscillations and waves/3B wave/3B20 Longitudinal/3B20 TOC.md
-  #         sections: 
-  #         - file: book/3 oscillations and waves/3B wave/3B20 Longitudinal/3B2001 Reflected Sound Pulses/3B2001.md
-  #       - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B22 TOC.md
-  #         sections: 
-  #         - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2201 deBroglie Applied to Bohr/3B2201.md
-  #         - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2202 Handheld Standing Waves/3B2202.md
-  #         - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2203 Kundts Tube/3B2203.md
-  #         - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2204 Sonometer by Hand/3B2204.md
-  #         - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2205 Plucking a String/3B2205.md
-  #         - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2206 Microwave Oven Standing Waves/3B2206.md
-  #       - file: book/3 oscillations and waves/3B wave/3B25 Impendance and Dispersion/3B25 TOC.md
-  #         sections: 
-  #         - file: book/3 oscillations and waves/3B wave/3B25 Impendance and Dispersion/3B2501 Impedance Matching/3B2501.md
-  #       - file: book/3 oscillations and waves/3B wave/3B40 Doppler/3B40 TOC.md
-  #         sections: 
-  #         - file: book/3 oscillations and waves/3B wave/3B40 Doppler/3B4001 Doppler/3B4001.md
-  #     - file: book/3 oscillations and waves/3C acoustics/3C TOC.md
-  #       sections: 
-  #       - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50 TOC.md
-  #         sections: 
-  #         - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
-  #     # - file: book/3 oscillations and waves/3D instruments/3D TOC.md
-  #     - file: book/3 oscillations and waves/3E sound reproduction/3E TOC.md
+  - caption: Fluid Mechanics
+    chapters:
+    - file: book/2 fluid mechanics/2 TOC.md
+      sections: 
+      - file: book/2 fluid mechanics/2A surface tension/2A TOC.md
+      - file: book/2 fluid mechanics/2B statics/2B TOC.md
+        sections: 
+        - file: book/2 fluid mechanics/2B statics/2B20 Static Pressure/2B20 TOC.md
+          sections: 
+          - file: book/2 fluid mechanics/2B statics/2B20 Static Pressure/2B2001 Rotating Liquid/2B2001.md
+      - file: book/2 fluid mechanics/2C dynamics/2C TOC.md
+        sections: 
+        - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C20 TOC.md
+          sections: 
+          - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2001 Magnus Effect/2C2001.md
+          - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2002 Magnus Effect/2C2002.md
+  - caption: Oscillations and Waves
+    chapters:
+    - file: book/3 oscillations and waves/3 TOC.md
+      sections: 
+      - file: book/3 oscillations and waves/3A osc/3A TOC.md
+        sections: 
+        - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A10 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1001 Mathematical Pendulum/3A1001.md
+          - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1002 Mathematical Pendulum/3A1002.md
+          - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1003 Mathematical Pendulum/3A1003.md
+          - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1004 Chaotic Pendulum/3A1004.md
+        - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A15 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1501 Physical Pendulum/3A1501.md
+          - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1502 Physical Pendulum/3A1502.md
+          - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1503 Physical Pendulum/3A1503.md
+        - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A40 TOC.md
+          sections:
+          - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4001 Mathematical Pendulum/3A4001.md
+          - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4002 Mathematical Pendulum/3A4002.md
+          - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4003 Simple Harmonic/3A4003.md
+          - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4004 Simple Harmonic/3A4004.md
+          - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4005 Simple Harmonic/3A4005.md
+        - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A50 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5001 Damped Harmonic/3A5001.md
+          - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5002 Damped Galvanometer/3A5002.md
+        - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A95 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A9501 Fakir/3A9501.md
+          - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A9502 Chaotic Pendulum/3A9502.md
+      - file: book/3 oscillations and waves/3B wave/3B TOC.md
+        sections: 
+        - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B10 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1001 Reflections of Transverse Pulses/3B1001.md
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1002 Speed of a Single Pulse on Different Strings/3B1002.md
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1003 Reflections of Transverse Pulses/3B1003.md
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1004 Speed of a Single Pulse on Different Strings/3B1004.md
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1005 Transverse Traveling Wave/3B1005.md
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1006 Transverse Traveling Wave/3B1006.md
+        - file: book/3 oscillations and waves/3B wave/3B20 Longitudinal/3B20 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave/3B20 Longitudinal/3B2001 Reflected Sound Pulses/3B2001.md
+        - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B22 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2201 deBroglie Applied to Bohr/3B2201.md
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2202 Handheld Standing Waves/3B2202.md
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2203 Kundts Tube/3B2203.md
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2204 Sonometer by Hand/3B2204.md
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2205 Plucking a String/3B2205.md
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2206 Microwave Oven Standing Waves/3B2206.md
+        - file: book/3 oscillations and waves/3B wave/3B25 Impendance and Dispersion/3B25 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave/3B25 Impendance and Dispersion/3B2501 Impedance Matching/3B2501.md
+        - file: book/3 oscillations and waves/3B wave/3B40 Doppler/3B40 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave/3B40 Doppler/3B4001 Doppler/3B4001.md
+      - file: book/3 oscillations and waves/3C acoustics/3C TOC.md
+        sections: 
+        - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
+      # - file: book/3 oscillations and waves/3D instruments/3D TOC.md
+      - file: book/3 oscillations and waves/3E sound reproduction/3E TOC.md
   # - caption: Thermodynamics
   #   chapters:
   #   - file: book/4 thermodynamics/4 TOC.md
