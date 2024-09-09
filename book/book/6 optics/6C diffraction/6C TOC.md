@@ -1,0 +1,4 @@
+# 6C diffraction
+
+```{tableofcontents}
+```
