@@ -34,13 +34,18 @@ These studies show that students who passively observe demonstrations understand
 
 At our department we apply as much as possible the ***predict-method***. (The discuss-method needs too much time in our way of demonstrating). In the large lecture halls we question the prediction of the students before showing the demonstration. After a couple of minutes a multiple choice prediction is then presented to them. Then we show the demonstration and a short discussion follows.
 
-<iframe
-    width="600"
-    height="300"
-    src="https://www.youtube.com/embed/yJ2Qu7IOlDs?align=center"
-    frameborder="0"
-    allowfullscreen
-></iframe>
+
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/yJ2Qu7IOlDs?si=bVn2oxlUtIxl3CXi"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 
 ## References
 ```{bibliography}
