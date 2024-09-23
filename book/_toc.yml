@@ -7,6 +7,7 @@ parts:
     - file: book/0 introduction/introduction.md
     - file: book/0 introduction/Workflow.md
     - file: book/0 introduction/Contact.md
+    - file: howto.md
   - caption: Mechanics
     chapters:    
     - file: book/1 mechanics/1 TOC.md
