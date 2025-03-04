@@ -4,8 +4,9 @@ root: book/index
 parts:
   - caption: TU Delft DemoLab
     chapters:
+    - file: book/0 introduction/demolab.md
     - file: book/0 introduction/introduction.md
-    - file: book/0 introduction/Workflow.md
+    - file: book/0 introduction/About.md
     - file: book/0 introduction/Contact.md
   - caption: Mechanics
     chapters:    
