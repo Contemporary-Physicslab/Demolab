@@ -19,7 +19,7 @@ We consider our ***Demonstration Room*** as a shop and we sell our demonstration
 6. we know the literature and the ideas that are proposed worldwide and we keep up to date
 7. we know what is commercially available
 
-```{figure} ../figures/Ron.jpg
+```{figure} ../../figures/Ron.jpg
 ---
 width: 70%
 ---

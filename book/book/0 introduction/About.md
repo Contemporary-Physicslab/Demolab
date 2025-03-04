@@ -33,8 +33,8 @@ Egbert Balsema
 ...
 
 ## Contributors
-Hanna den Hartog
-Luuk Fröling
+Hanna den Hartog  
+Luuk Fröling  
 Tom Haanstra
 
 ## Licences

@@ -1,5 +1,6 @@
 # The Demonstration Laboratory
 
 ```{figure} cover.jpg
-:width: 100%
+:width: 80%
+:align: center
 ```
