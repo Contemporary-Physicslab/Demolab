@@ -9,7 +9,7 @@ Please note that this resource is still work in progress. However, all documente
 
 (how-we-work)=
 ## How we Work
-We consider our ***Demonstration Room*** as a shop and we sell demonstrations. We seduce professors to use our facilities and expertise. We need to seduce them because professors are not familiar with all the ideas available and they certainly have no time to investigate all the possibilities that exist.
+We consider our ***Demonstration Room*** as a shop and we sell our demonstrations for free. We seduce professors to use our facilities and expertise. We need to seduce them because professors are not familiar with all the ideas available and they certainly have no time to investigate all the possibilities that exist.
 
 1. we have many demos in stock
 2. we know the physics
@@ -46,3 +46,57 @@ From the Latin version of this verb it can be seen that we aim to show phenomena
 We propose demonstrations to the professors and in consultation with them we select what will be shown. In developing, designing, and preparing the demonstrations we also make choices about how to show it effectively to our students. Finally we show the demonstrations during the lecture when it is the appropriate moment so it fits in with the matter taught during that lecture.
 
 Currently (2023) we present around 300 demonstrations every year and this number is still increasing, because more professors see and experience the benefits of our services. Moreover also other faculties of our Technical University Delft and teachers from outside our university found their way to our demonstration facility. Our Demonstration Room is booming business!
+
+(introduction)=
+## Demonstrations
+
+```{index} how to demonstrate
+```
+
+"How to demonstrate" means how to do it as effective as possible and with “effective” we mean that students really learn from the presented demonstrations. Demonstrations are commonly believed to help students learn science and to stimulate their interest. The latter objective is generally achieved: studies show that demonstrations are among students’ favorite elements of a course. But research on the first objective also shows that traditional demonstrations do not effectively help students grasp the underlying scientific concepts or correct their misconceptions, while teachers often think the opposite. Here we refer to two studies:
+
+* "Why may students fail to learn from demonstrations?" {cite:p}`roth1997may`
+* "Classroom demonstrations: Learning tools or entertainment?" {cite:p}`crouch2004classroom`
+
+```{index} student engagement, presenting demonstrations, knowledge retention
+```
+
+These studies show that students who passively observe demonstrations understand the underlying concepts no better than students who do not see the demonstration at all! Learning is enhanced, however, by increasing student engagement. The key to an effective demonstration is interaction with the audience. Students who predict the demonstration outcome before seeing it, display significant greater understanding {cite:p}`crouch2004classroom`.
+
+***Observe***:
+
+1. students observe the demonstration.
+2. hear the instructor's explanation.
+
+***Predict***:
+
+1. students record their prediction (without discussion)
+2. observe the demonstration.
+3. hear the instructor's explanation.
+
+***Discuss***:
+
+1. students record their prediction (without discussion)
+2. observe the demonstration.
+3. discuss it with fellow students
+4. hear the instructor's explanation.
+
+At our department we apply as much as possible the ***predict-method***. (The discuss-method needs too much time in our way of demonstrating). In the large lecture halls we question the prediction of the students before showing the demonstration. After a couple of minutes a multiple choice prediction is then presented to them. Then we show the demonstration and a short discussion follows.
+
+
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/yJ2Qu7IOlDs?si=bVn2oxlUtIxl3CXi"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
+## References
+```{bibliography}
+:filter: docname in docnames
+```
