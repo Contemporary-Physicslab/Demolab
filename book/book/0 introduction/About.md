@@ -36,29 +36,31 @@ Egbert Balsema
 Hanna den Hartog  
 Luuk Fröling  
 Tom Haanstra
+Carola van der Muren (and her team of TA's)
 
 ## Licences
-CC-BY-4.0
+CC-BY-4.0  
+All drawings have been made by Hanna den Hartog. The videos were mainly recorded for the various courses at the Applied Physics and Nanobiology program at Delft University of Technology.
 
 ## Contact
 
-Delft University of Technology\
-Faculty: of Applied Sciences\
-Department: Imaging Physics\
+Delft University of Technology  
+Faculty: of Applied Sciences  
+Department: Imaging Physics  
 Group: Science & Engineering Education 
 
-R. Haaksman\
-Room: A162\
-Lorentzweg 1\
-2628 CJ Delft\
-The Netherlands\
-Tel.: +31 (0)15-278 1439\
+R. Haaksman  
+Room: A162  
+Lorentzweg 1  
+2628 CJ Delft  
+The Netherlands  
+Tel.: +31 (0)15-278 1439  
 E-mail: R.P.H.Haaksman_at_TUDelft.nl
 
-F. Pols\
-Room: A005\
-Lorentzweg 1\
-2628 CJ Delft\
-The Netherlands\
+F. Pols  
+Room: A005  
+Lorentzweg 1  
+2628 CJ Delft  
+The Netherlands  
 E-mail: c.f.j.pols_at_tudelft.nl
 
