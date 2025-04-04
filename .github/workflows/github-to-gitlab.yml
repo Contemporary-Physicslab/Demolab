@@ -3,7 +3,7 @@ name: Sync GitHub to GitLab
 on:
   push:
     branches:
-      - gitlab_test  # Trigger only when this branch is updated
+      - workflow_gitlab_test  # Trigger only when this branch is updated
 
 jobs:
   sync:
