@@ -25,6 +25,6 @@ jobs:
 
           # # Use force-with-lease for safety
           # git push --force-with-lease gitlab workflow_gitlab_test:workflow_gitlab_test
-          - name: Force Push to GitLab (overwrite the branch)
-            run: |
-              git push --force gitlab workflow_gitlab_test:workflow_gitlab_test
+      - name: Force Push to GitLab (overwrite the branch)
+        run: |
+          git push --force gitlab workflow_gitlab_test:workflow_gitlab_test
