@@ -23,5 +23,8 @@ jobs:
           # Add GitLab as a remote (update URL for your repo)
           git remote add gitlab https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.tudelft.nl/education/as/ap/demolab.git
 
-          # Use force-with-lease for safety
-          git push --force-with-lease gitlab workflow_gitlab_test:workflow_gitlab_test
+          # # Use force-with-lease for safety
+          # git push --force-with-lease gitlab workflow_gitlab_test:workflow_gitlab_test
+          - name: Force Push to GitLab (overwrite the branch)
+            run: |
+              git push --force gitlab workflow_gitlab_test:workflow_gitlab_test
