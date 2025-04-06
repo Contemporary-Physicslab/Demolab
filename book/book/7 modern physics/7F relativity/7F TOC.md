@@ -1,4 +1,0 @@
-# 7F relativity
-
-```{tableofcontents}
-```

@@ -1,6 +1,0 @@
-
-
-# 1L gravity
-
-```{tableofcontents}
-```

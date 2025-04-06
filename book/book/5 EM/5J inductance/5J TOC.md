@@ -1,6 +1,0 @@
-
-
-# 5J inductance
-
-```{tableofcontents}
-```

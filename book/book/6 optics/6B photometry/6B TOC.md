@@ -1,4 +1,0 @@
-# 6B photometry
-
-```{tableofcontents}
-```

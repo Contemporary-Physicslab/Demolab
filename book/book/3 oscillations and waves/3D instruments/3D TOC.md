@@ -1,6 +1,0 @@
-
-
-# 3D instruments
-
-```{tableofcontents}
-```

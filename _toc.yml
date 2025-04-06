@@ -1,0 +1,187 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index # this is the landing page i.e. index.md
+#options:
+#  numbered: false
+#  maxdepth: 2 # The displayed Table of Contents will only have two levels
+
+parts:
+  - caption: TU Delft DemoLab
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+#    numbered: false
+#    - file: book/GeoPython_2021
+#    - file: book/gee
+    - file: book/introduction/introduction.md
+  - caption:
+#    numbered: false
+    maxdepth: 2
+    chapters:
+    - file: book/1 mechanics/1 mechanics.md
+      sections:
+#      - file: book/1 mechanics/1 mechanics.md
+      - file: book/1 mechanics/1A measurement/1A measurement.md
+      - file: book/1 mechanics/1C motion in one dimension/1C motion in one dimension.md
+      - file: book/1 mechanics/1D motion in two dimensions/1D motion in two dimensions.md
+      - file: book/1 mechanics/1E relative motion/1E relative motion.md
+      - file: book/1 mechanics/1F newton's first law/1F newton's first law.md
+      - file: book/1 mechanics/1G newton's second law/1G newton's second law.md
+#       title: A Jupyter Notebook page
+#      - glob: book/1 mechanics/1G newton's second law/1G newton's second law plot.ipynb
+#      - file: book/1 mechanics/1G newton's second law/export.html # not sure 11 dec 2023
+#     - file: book/1 mechanics/1G newton's second law/1G newton's second law plot.ipynb
+      - file: book/1 mechanics/1H newton's third law/1H newton's third law.md
+      - file: book/1 mechanics/1J statics of rigid bodies/1J statics of rigid bodies.md
+      - file: book/1 mechanics/1K applications of newton's laws/1K applications of newton's laws.md
+      - file: book/1 mechanics/1L gravity/1L gravity.md
+      - file: book/1 mechanics/1M work and energy/1M work and energy.md
+      - file: book/1 mechanics/1N linear momentum and collisions/1N linear momentum and collisions.md
+      - file: book/1 mechanics/1Q rotational dynamics/1Q rotational dynamics.md
+      - file: book/1 mechanics/1R properties of matter/1R properties of matter.md
+
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+    - file: book/2 fluid mechanics/2 fluid mechanics.md
+      sections:
+      - file: book/2 fluid mechanics/2A surface tension/2A surface tension.md
+      - file: book/2 fluid mechanics/2B statics of fluids/2B statics of fluids.md
+      - file: book/2 fluid mechanics/2C dynamics of fluids/2C dynamics of fluids.md
+
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+    - file: book/3 oscillations and waves/3 oscillations and waves.md
+      sections:
+      - file: book/3 oscillations and waves/3A oscillations/3A oscillations.md
+      - file: book/3 oscillations and waves/3B wave motion/3B wave motion.md
+      - file: book/3 oscillations and waves/3C acoustics/3C acoustics.md
+      - file: book/3 oscillations and waves/3D instruments/3D instruments.md
+      - file: book/3 oscillations and waves/3E sound reproduction/3E sound reproduction.md
+
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+    - file: book/4 thermodynamics/4 thermodynamics.md
+      sections:
+      - file: book/4 thermodynamics/4A thermal properties of matter/4A thermal properties of matter.md
+      - file: book/4 thermodynamics/4B heat and the first law/4B heat and the first law.md
+      - file: book/4 thermodynamics/4C change of state/4C change of state.md
+      - file: book/4 thermodynamics/4D kinetic theory/4D kinetic theory.md
+      - file: book/4 thermodynamics/4E gas law/4E gas law.md
+      - file: book/4 thermodynamics/4F entropy and the second law/4F entropy and the second law.md
+
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters: 
+    - file: book/5 electricity and magnetism/5 electricity and magnetism.md
+      sections:
+      - file: book/5 electricity and magnetism/5A electrostatics/5A electrostatics.md
+      - file: book/5 electricity and magnetism/5B electric fields and potential/5B electric fields and potential.md
+        sections:
+        - file: book/5 electricity and magnetism/5B electric fields and potential/5B10 electric field/5B10 electric field.md
+          sections:
+          - file: book/5 electricity and magnetism/5B electric fields and potential/5B10 electric field/5B10-01.md
+          
+        - file: book/5 electricity and magnetism/5B electric fields and potential/5B20 gauss' law/5B20 gauss' law.md
+          sections:
+          - file: book/5 electricity and magnetism/5B electric fields and potential/5B20 gauss' law/5B20-01.md
+        #title: 5C capacitance
+      - file: book/5 electricity and magnetism/5C capacitance/5C capacitance.ipynb
+      - file: book/5 electricity and magnetism/5D resistance/5D resistance.md
+      - file: book/5 electricity and magnetism/5E electromotive force and current/5E electromotive force and current.md
+      - file: book/5 electricity and magnetism/5F DC circuits/5F DC circuits.md
+      - file: book/5 electricity and magnetism/5G magnetic materials/5G magnetic materials.md
+      - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H magnetic fields and forces.md
+      - file: book/5 electricity and magnetism/5J inductance/5J inductance.md
+      - file: book/5 electricity and magnetism/5K electromagnetic induction/5K electromagnetic induction.md
+      - file: book/5 electricity and magnetism/5L AC circuits/5L AC circuits.md
+      - file: book/5 electricity and magnetism/5M semiconductors and tubes/5M semiconductors and tubes.md
+      - file: book/5 electricity and magnetism/5N electromagnetic radiation/5N electromagnetic radiation.md
+
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+    - file: book/6 optics/6 optics.md
+      sections:
+      - file: book/6 optics/6A geometrical optics/6A geometrical optics.md
+      - file: book/6 optics/6B photometry/6B photometry.md
+      - file: book/6 optics/6C diffraction/6C diffraction.md
+      - file: book/6 optics/6D interference/6D interference.md
+      - file: book/6 optics/6F color/6F color.md
+      - file: book/6 optics/6H polarisation/6H polarisation.md
+      - file: book/6 optics/6J the eye/6J the eye.md
+      - file: book/6 optics/6Q modern optics/6Q modern optics.md
+
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+    - file: book/7 modern physics/7 modern physics.md
+      sections:
+      - file: book/7 modern physics/7A quantum effects/7A quantum effects.md
+      - file: book/7 modern physics/7B atomic physics/7B atomic physics.md
+      - file: book/7 modern physics/7D nuclear physics/7D nuclear physics.md
+      - file: book/7 modern physics/7E elementary particles/7E elementary particles.md
+      - file: book/7 modern physics/7F relativity/7F relativity.md
+
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+    - file: book/8 astronomy/8 astronomy.md
+
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+    - file: book/9 miscellaneous/9 miscellaneous.md
+
+#  - caption:
+##    numbered: false
+##    maxdepth: 2
+#    chapters:
+#    - file: book/10 films and video/10 films and video.md
+
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+    - file: book/bibliography/bibliography.md
+
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+    - file: genindex
+#    - file: book/index names/index names.md
+
+#  - caption:
+##    numbered: false
+##    maxdepth: 2
+#    chapters:
+#    - file: book/sandbox/sandbox.md
+#      sections:
+#      - file: book/sandbox/data/read write data.ipynb
+#      - file: book/sandbox/data/manipulating data.md
+#      - file: book/sandbox/graphs/generating graphs.md
+#      - file: book/sandbox/graphs/data plotting.ipynb
+#      - file: book/sandbox/graphs/interactive plotting.ipynb
+      
+  - caption:
+#    numbered: false
+#    maxdepth: 2
+    chapters:
+    - file: book/stats/stats.md
+      sections:
+      - file: book/stats/demo statistics.ipynb
+#      - file: book/sandbox/data/manipulating data.md
+      

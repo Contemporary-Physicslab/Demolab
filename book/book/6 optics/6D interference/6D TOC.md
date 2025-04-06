@@ -1,4 +1,0 @@
-# 6D interference
-
-```{tableofcontents}
-```

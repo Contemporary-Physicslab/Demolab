@@ -1,6 +1,0 @@
-
-
-# 3C acoustics
-
-```{tableofcontents}
-```

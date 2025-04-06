@@ -1,15 +1,36 @@
-# first list the packages you wish to download from PyPI
-teachbooks # depends on jupyter-book
-# numpy
-
-# docutils version for reference page formatting
-docutils==0.17.1
-
-# now list the packages (and the respective url) you wish to download from the GitLab package registry
---extra-index-url https://gitlab.tudelft.nl/api/v4/projects/17983/packages/pypi/simple
-jupyterbook_patches ~= 0.1.4  #temporarily disable
---extra-index-url https://gitlab.tudelft.nl/api/v4/projects/11239/packages/pypi/simple
-sphinx-thebe ~= 0.9.9  #temporarily disable
-
-# lastly any packages you wish to download directly from a Git repository
-download_link_replacer @ git+https://gitlab.tudelft.nl/mude/sphinx-download-link-replacer
+# <pip install -r requirements.txt>
+# Copied from 'sphinx' extra of pyproject.toml
+jupyter-book
+jupyter_contrib_nbextensions # added on 06 Dec 2023 rph
+jupyter # added on 11 dec 2023 rph
+jupyterquiz
+jupytext
+ipywidgets # does not seem to work, instead use bokeh
+ipywidgets_bokeh  # added on 12 dec 2023 rph
+ipympl # added on 11 Dec 2023
+bokeh # added on 07 Dec 2023
+networkx # added on 07 Dec 2023
+matplotlib
+numpy
+ghp-import
+myst-parser
+myst_nb
+openpyxl # added 19 Dec 2023
+pandas
+plotly
+scipy
+sphinx
+sphinx-click
+sphinx-examples
+sphinx-exercise
+sphinx_inline_tabs
+sphinx-proof
+#sphinxext-rediraffe~=0.2.3
+#sympyactivate
+sympy
+scikit-learn # added on 11 dec 2023 rph
+kaleidoscope # added on 11 dec 2023 rph
+nodejs # added on 11 dec 2023 rph
+# ijavascript # added on 11 dec 2023 rph
+# has to be installed via <npm install -g ijavascript>, see
+# https://dev.to/worldlinetech/a-guide-to-nodejs-notebooks-410c

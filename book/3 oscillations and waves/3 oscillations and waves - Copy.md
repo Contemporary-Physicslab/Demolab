@@ -1,0 +1,44 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.11.5
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+
+````{mark}
+This marks some comments
+````
+
+(3-oscillations-and-waves)=
+
+# 3. Oscillations and Waves
+
+:::{contents}
+:::
+
+(3a-oscillations)=
+
+## 3A Oscillations
+
+(3b-wave-motion)=
+
+## 3B Wave Motion
+
+(3c-acoustics)=
+
+## 3C Acoustics
+
+(3d-instruments)=
+
+## 3D Instruments
+
+(3e-sound-reproduction)=
+
+## 3E Sound Reproduction

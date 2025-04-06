@@ -1,6 +1,0 @@
-
-
-# 5D resistance
-
-```{tableofcontents}
-```

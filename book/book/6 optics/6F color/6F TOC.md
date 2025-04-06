@@ -1,4 +1,0 @@
-# 6F color
-
-```{tableofcontents}
-```

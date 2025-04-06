@@ -1,0 +1,49 @@
+stages:
+  - setup
+  - build
+  - deploy
+
+variables:
+  VENV_PATH: /var/gitlab-runner-venvs/demolab
+
+setup:
+  # image: python:alpine
+  # image: ronligt/jbook:4
+  stage: setup
+  script:
+    - if ! [[ -d "$VENV_PATH" ]]; then echo "VENV Directory $VENV_PATH does not exist. Creating it..."; python3 -m venv "$VENV_PATH"; echo "Directory $VENV_PATH created."; fi
+    - source $VENV_PATH/bin/activate
+    - if [[ -e requirements.txt ]]; then echo "Updating packages..."; pip install -r requirements.txt --upgrade; echo "Packages updated."; fi
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+      changes:
+        - requirements.txt
+
+build:
+  stage: build
+  script:
+    - source $VENV_PATH/bin/activate
+    - jupyter-book build .
+  artifacts:
+    paths:
+      - _build
+    expire_in: 1 week
+
+
+deploy:
+  # image: alpine
+  # image: ronligt/jbook:4
+  stage: deploy
+  script:
+  # - eval $(ssh-agent -s)
+  ## Add the SSH key stored in SSH_PRIVATE_KEY variable to the agent store
+  ## We're using tr to fix line endings which makes ed25519 keys work
+  ## without extra base64 encoding.
+  ## https://gitlab.com/gitlab-examples/ssh-private-key/issues/1#note_48526556
+  ##
+  # - echo "$KEY" | tr -d '\r' | ssh-add - > /dev/null
+  # - mkdir -p ~/.ssh
+  # - chmod 700 ~/.ssh
+  # - ssh-keyscan demolab.tnw.tudelft.nl >> ~/.ssh/known_hosts
+  # - chmod 644 ~/.ssh/known_hosts
+  - rsync -rv --delete _build/html/ web@demolab.tnw.tudelft.nl:demolab

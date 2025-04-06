@@ -1,6 +1,0 @@
-
-
-# 5C capacitance
-
-```{tableofcontents}
-```

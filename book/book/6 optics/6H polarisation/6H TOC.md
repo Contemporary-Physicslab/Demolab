@@ -1,4 +1,0 @@
-# 6H polarisation
-
-```{tableofcontents}
-```

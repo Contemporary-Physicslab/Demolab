@@ -1,0 +1,36 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.11.5
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+
+````{mark}
+This marks some comments
+````
+
+(2-fluid-mechanics)=
+
+# 2. Fluid Mechanics
+
+:::{contents}
+:::
+
+(2a-surface-tension)=
+
+## 2A Surface Tension
+
+(2b-statics-of-fluids)=
+
+## 2B Statics of Fluids
+
+(2c-dynamics-of-fluids)=
+
+## 2C Dynamics of Fluids
