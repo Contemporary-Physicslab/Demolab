@@ -628,3 +628,6 @@ parts:
   - caption: 9 miscellaneous
     chapters:
     - file: book/9 miscellaneous/9 TOC.md
+  - caption: Howto
+    chapters:    
+    - file: GHGL/GHGL.md
