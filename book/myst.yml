@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 6e8010ee-d445-433e-917f-de4fa9a80fd7
+  title: The demonstration laboratory
+  # description:
+  # keywords: []
+  authors: [Ron Haaksman; Freek Pols]
+  github: https://github.com/Contemporary-Physicslab/Demolab
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  exports:
+    - format: pdf
+      template: plain_latex_book # myst templates list --tex
+      output: Exports/DEMOBOOK.pdf  
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
