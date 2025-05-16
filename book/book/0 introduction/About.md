@@ -11,7 +11,7 @@ Our approach to creating a living, ever-growing repository.
 
 Hence we set to work, converting the pdfs to markdown files (the work of Luuk Fröling) and creating a first [Jupyter Book](https://jupyterbook.org/). All drawings were remade, resulting in high-quality vector drawings (the work of Hanna den Hertog). New pictures and video's were made (with the help of Tom Haanstra). Where possible, python codes where added, allowing for simulations and data analysis. This resulted in this book 'The Demonstration Laboratory'. 
 
-We consider the book not finished, as it is intended as an ever expanding repository. The book is an output of a dynamic repository. We can add and change demonstrations, improve the quality of descriptions, add code, and so on. You may contribute to this, and will be recognized for it! 
+We consider the book not finished, as it is intended as an ever expanding repository. The book is an output of a dynamic repository. We can add and change demonstrations, improve the quality of descriptions, add code, and so on. You may contribute to this, and you will be recognized for it! 
 
 
 ## Your contribution
@@ -20,7 +20,7 @@ You can contribute to this book in various ways:
 1. Enhance the quality by adding comments and/or suggestions using the issue button <i class="fa-solid fa-lightbulb"></i> below the  <i class="fa-brands fa-github"></i> button.
 2. Add content
 
-If you see a typo, if something is not clear, or anything needs to be adjusted, click the <i class="fa-brands fa-github"></i> button at the top of the screen and open an issue by clicking on the {fa}`lightbulb` button. (You need to have a github account though). We then receive a notification of your query, and we will address the issue as soon as possible.
+If you spot a typo, if something is not clear, or anything needs to be adjusted, click the <i class="fa-brands fa-github"></i> button at the top of the screen and open an issue by clicking on the {fa}`lightbulb` button. (You need to have a github account though). We then receive a notification of your query, and we will address the issue as soon as possible.
 
 If you want to add your material, you can do so by [contacting us](c.f.j.pols@tudelft.nl). You can become a team member of the github repository and are allowed to add materials. If you are interested in how this works, see the [teachbooks manual](https://teachbooks.io/manual/workflows/collaboration.html) on the matter.
 
@@ -35,7 +35,7 @@ Egbert Balsema
 ## Contributors
 Hanna den Hartog  
 Luuk Fröling  
-Tom Haanstra
+Tom Haanstra  
 Carola van der Muren (and her team of TA's)
 
 ## Licences
