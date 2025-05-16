@@ -49,11 +49,11 @@ Faculty of Applied Sciences
 Department: Imaging Physics  
 Group: Science & Engineering Education 
 
-R. Haaksman
-Room: A162
-Lorentzweg 1
-2628 CJ Delft
-The Netherlands
+R. Haaksman  
+Room: A162  
+Lorentzweg 1  
+2628 CJ Delft  
+The Netherlands  
 E-mail: R.P.H.Haaksman_at_TUDelft.nl
 
 F. Pols  
