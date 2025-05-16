@@ -29,7 +29,7 @@ Ron Haaksman
 Freek Pols
 
 ## Authors
-Egbert Balsema  
+Egbert Balsma  
 ...
 
 ## Contributors
