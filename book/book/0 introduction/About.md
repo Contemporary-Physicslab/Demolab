@@ -45,7 +45,7 @@ All drawings have been made by Hanna den Hartog. The videos were mainly recorded
 ## Contact
 
 Delft University of Technology  
-Faculty: of Applied Sciences  
+Faculty of Applied Sciences  
 Department: Imaging Physics  
 Group: Science & Engineering Education 
 
