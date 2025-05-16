@@ -1,0 +1,633 @@
+format: jb-book
+root: book/index
+
+parts:
+  - caption: TU Delft DemoLab
+    chapters:
+    - file: book/0 introduction/About.md
+    - file: book/0 introduction/demolab.md
+    - file: book/0 introduction/Videos.md
+  - caption: Mechanics
+    chapters:    
+    - file: book/1 mechanics/1 TOC.md
+      sections: 
+      - file: book/1 mechanics/1A measurement/1A TOC.md
+        sections: 
+        - file: book/1 mechanics/1A measurement/1A20 Error and Accuracy/1A20 TOC.md
+          sections: 
+          - file: book/1 mechanics/1A measurement/1A20 Error and Accuracy/1A2001 Hookes Law/1A2001.md
+        - file: book/1 mechanics/1A measurement/1A40 Vectors/1A40 TOC.md
+          sections: 
+          - file: book/1 mechanics/1A measurement/1A40 Vectors/1A4001 Cross Product/1A4001.md
+      #- file: book/1 mechanics/1C 1D-motion/1C TOC.md
+      - file: book/1 mechanics/1D 2D motion/1D TOC.md
+        sections: 
+        - file: book/1 mechanics/1D 2D motion/1D40 Center of Mass/1D40 TOC.md
+          sections: 
+          - file: book/1 mechanics/1D 2D motion/1D40 Center of Mass/1D4001 Center of Mass/1D4001.md
+          - file: book/1 mechanics/1D 2D motion/1D40 Center of Mass/1D4002 Center of Rotation/1D4002.md
+          - file: book/1 mechanics/1D 2D motion/1D40 Center of Mass/1D4003 Students Centre of Mass/1D4003.md
+          - file: book/1 mechanics/1D 2D motion/1D40 Center of Mass/1D4004 Explosion/1D4004.md
+        - file: book/1 mechanics/1D 2D motion/1D50 Central Forces/1D50 TOC.md
+          sections: 
+          - file: book/1 mechanics/1D 2D motion/1D50 Central Forces/1D5001 Going Round in Circles/1D5001.md
+          - file: book/1 mechanics/1D 2D motion/1D50 Central Forces/1D5002 Conical Pendulum/1D5002.md
+          - file: book/1 mechanics/1D 2D motion/1D50 Central Forces/1D5003 Centripetal Force/1D5003.md
+          - file: book/1 mechanics/1D 2D motion/1D50 Central Forces/1D5004 Force Field/1D5004.md
+      - file: book/1 mechanics/1E relative motion/1E TOC.md
+        sections: 
+        - file: book/1 mechanics/1E relative motion/1E10 Mov Ref/1E10 TOC.md
+          sections: 
+          - file: book/1 mechanics/1E relative motion/1E10 Mov Ref/1E1001 Super Balls Double Ball Drop/1E1001.md
+          - file: book/1 mechanics/1E relative motion/1E10 Mov Ref/1E1002 Galilean Cart/1E1002.md
+          - file: book/1 mechanics/1E relative motion/1E10 Mov Ref/1E1003 Shoot and Catch/1E1003.md
+        - file: book/1 mechanics/1E relative motion/1E20 Rot Ref/1E20 TOC.md
+          sections: 
+          - file: book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2001 Coriolis/1E2001.md
+          - file: book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2002 Coriolis/1E2002.md
+          - file: book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2003 Coriolis/1E2003.md
+          - file: book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2004 Coriolis Merry go Round/1E2004.md
+          - file: book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2005 Coriolis/1E2005.md
+          - file: book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2006 Rotating Liquid/1E2006.md
+        - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30 TOC.md
+          sections: 
+          - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E3001 Coriolis/1E3001.md
+          - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E3002 Cross Product/1E3002.md
+      - file: book/1 mechanics/1F newton 1/1F TOC.md
+        sections: 
+        - file: book/1 mechanics/1F newton 1/1F20 Inertia of Rest/1F20 TOC.md
+          sections: 
+          - file: book/1 mechanics/1F newton 1/1F20 Inertia of Rest/1F2001 Tablecloth Pull/1F2001.md
+          - file: book/1 mechanics/1F newton 1/1F20 Inertia of Rest/1F2002 Newtons Hammer/1F2002.md
+          - file: book/1 mechanics/1F newton 1/1F20 Inertia of Rest/1F2003 Not Breaking a Wineglass/1F2003.md
+        - file: book/1 mechanics/1F newton 1/1F30 Inertia of Motion/1F30 TOC.md
+          sections: 
+          - file: book/1 mechanics/1F newton 1/1F30 Inertia of Motion/1F3001 Galileos Thoughts/1F3001.md
+          - file: book/1 mechanics/1F newton 1/1F30 Inertia of Motion/1F3002 Walk and Ball/1F3002.md
+      - file: book/1 mechanics/1G newton 2/1G TOC.md
+        sections: 
+        - file: book/1 mechanics/1G newton 2/1G10 Fma/1G10 TOC.md
+          sections: 
+          - file: book/1 mechanics/1G newton 2/1G10 Fma/1G1001 Throwing Eggs/1G1001.md
+          - file: book/1 mechanics/1G newton 2/1G10 Fma/1G1002 Bungee Jumper/1G1002.md
+          - file: book/1 mechanics/1G newton 2/1G10 Fma/1G1003 Pulling a Thread/1G1003.md
+      - file: book/1 mechanics/1H newton 3/1H TOC.md
+        sections: 
+        - file: book/1 mechanics/1H newton 3/1H10 Act and React/1H10 TOC.md
+          sections: 
+          - file: book/1 mechanics/1H newton 3/1H10 Act and React/1H1001 Who is the Strongest in a Collision/1H1001.md
+          - file: book/1 mechanics/1H newton 3/1H10 Act and React/1H1002 Who is Pulling/1H1002.md
+          - file: book/1 mechanics/1H newton 3/1H10 Act and React/1H1003 Trying Hard to Pull Differently/1H1003.md
+          - file: book/1 mechanics/1H newton 3/1H10 Act and React/1H1004 Bottle Rocket/1H1004.md
+          - file: book/1 mechanics/1H newton 3/1H10 Act and React/1H1005 Magnet Symmetry/1H1005.md
+          - file: book/1 mechanics/1H newton 3/1H10 Act and React/1H1006 Recoil of a Water Jet/1H1006.md
+          - file: book/1 mechanics/1H newton 3/1H10 Act and React/1H1007 Strong Magnet Weak Paperclip/1H1007.md
+      - file: book/1 mechanics/1J rigid bodies/1J TOC.md
+        sections: 
+        - file: book/1 mechanics/1J rigid bodies/1J20 Equilibrium/1J20 TOC.md
+          sections: 
+          - file: book/1 mechanics/1J rigid bodies/1J20 Equilibrium/1J2001 Equilibrium and Potential Energy/1J2001.md
+        - file: book/1 mechanics/1J rigid bodies/1J30 Resolution of Forces/1J30 TOC.md
+          sections: 
+          - file: book/1 mechanics/1J rigid bodies/1J30 Resolution of Forces/1J3001 Strong Professor/1J3001.md
+      - file: book/1 mechanics/1K apply newton/1K TOC.md
+        sections: 
+        - file: book/1 mechanics/1K apply newton/1K10 Dynamic Torque/1K10 TOC.md
+          sections: 
+          - file: book/1 mechanics/1K apply newton/1K10 Dynamic Torque/1K1001 Pulling a Spool/1K1001.md
+          - file: book/1 mechanics/1K apply newton/1K10 Dynamic Torque/1K1002 Boomerang Ball/1K1002.md
+          - file: book/1 mechanics/1K apply newton/1K10 Dynamic Torque/1K1003 Boomerang Ball/1K1003.md
+          - file: book/1 mechanics/1K apply newton/1K10 Dynamic Torque/1K1004 Falling Stick/1K1004.md
+          - file: book/1 mechanics/1K apply newton/1K10 Dynamic Torque/1K1005 Throwing a Basketball/1K1005.md
+        - file: book/1 mechanics/1K apply newton/1K20 Friction/1K20 TOC.md
+          sections: 
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2001 Braking/1K2001.md
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2002 Phonebook Friction/1K2002.md
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2004 Falling Stick/1K2004.md
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2005 Throwing a Basketball/1K2005.md
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2006 Chain Friction/1K2006.md
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2007 Moving Two Fingers under a Meterstick/1K2007.md
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2008 No Tipping Allowed/1K2008.md
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2009 Pulling a Sliding Block/1K2009.md
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2010 Rolling Up and Down Again and Again/1K2010.md
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2011 Rope on a Table/1K2011.md
+          - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2012 Sliding Towel/1K2012.md
+      - file: book/1 mechanics/1L gravity/1L TOC.md
+        sections: 
+        - file: book/1 mechanics/1L gravity/1L10 Universal G/1L10 TOC.md
+          sections: 
+          - file: book/1 mechanics/1L gravity/1L10 Universal G/1L1001 Weighing the Earth/1L1001.md
+        - file: book/1 mechanics/1L gravity/1L20 Orbits/1L20 TOC.md
+          sections: 
+          - file: book/1 mechanics/1L gravity/1L20 Orbits/1L2001 Kepler 2/1L2001.md
+          - file: book/1 mechanics/1L gravity/1L20 Orbits/1L2002 Kepler 3/1L2002.md
+          - file: book/1 mechanics/1L gravity/1L20 Orbits/1L2003 Precessing Orbit/1L2003.md
+      - file: book/1 mechanics/1M work and energy/1M TOC.md
+        sections: 
+        - file: book/1 mechanics/1M work and energy/1M10 Work/1M10 TOC.md
+          sections: 
+          - file: book/1 mechanics/1M work and energy/1M10 Work/1M1001 How much Work to Break a Soup Tureen/1M1001.md
+        - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M40 TOC.md
+          sections: 
+          - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4001 Gauss Rifle/1M4001.md
+          - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4002 Kinetic Energy in an Elastic Collision/1M4002.md
+          - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4003 Mortar/1M4003.md
+          - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4004 Galileos Pendulum/1M4004.md                  
+          - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4005 Pendulum of Death/1M4005.md
+          - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4006 Dropping Rolls of Toilet Paper/1M4006.md
+      - file: book/1 mechanics/1N lin momentum and collisions/1N TOC.md
+        sections: 
+        - file: book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N10 TOC.md
+          sections: 
+          - file: book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N1001 Bottle Rocket/1N1001.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N1002 Boomerang Ball/1N1002.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N1003 Boomerang Ball/1N1003.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N1004 Throwing a Basketball/1N1004.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N1005 Sliding Ladder/1N1005.md
+        - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N20 TOC.md
+          sections: 
+          - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2001 Elastic Collisions/1N2001.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2002 Inelastic Collisions/1N2002.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2003 Explosion/1N2003.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2004 Colliding Balls/1N2004.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2005 Demonstrator and Cart/1N2005.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2006 Knock Out/1N2006.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2007 Pulling a Slackened Rope/1N2007.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2008 Spinning Bouncing Ball/1N2008.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2009 Super Balls Double Ball Drop/1N2009.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2010 Magnet Symmetry/1N2010.md
+        - file: book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N22 TOC.md
+          sections: 
+          - file: book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N2201 Bottle Rocket/1N2201.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N2202 Recoil of a Water Jet/1N2202.md
+        - file: book/1 mechanics/1N lin momentum and collisions/1N30 Collisions/1N30 TOC.md
+          sections: 
+          - file: book/1 mechanics/1N lin momentum and collisions/1N30 Collisions/1N3001 Knock Out/1N3001.md
+          - file: book/1 mechanics/1N lin momentum and collisions/1N30 Collisions/1N3002 Super Balls Double Ball Drop/1N3002.md
+      - file: book/1 mechanics/1Q rot dyn/1Q TOC.md
+        sections: 
+        - file: book/1 mechanics/1Q rot dyn/1Q10 Momentum of Inertia/1Q10 TOC.md
+          sections: 
+          - file: book/1 mechanics/1Q rot dyn/1Q10 Momentum of Inertia/1Q1001 Bicycle Wheel Pendulum/1Q1001.md
+          - file: book/1 mechanics/1Q rot dyn/1Q10 Momentum of Inertia/1Q1002 Physical Pendulum/1Q1002.md
+          - file: book/1 mechanics/1Q rot dyn/1Q10 Momentum of Inertia/1Q1003 Maximum Rotational Inertia/1Q1003.md
+          - file: book/1 mechanics/1Q rot dyn/1Q10 Momentum of Inertia/1Q1004 Rolling Down a Wide Gutter/1Q1004.md
+          - file: book/1 mechanics/1Q rot dyn/1Q10 Momentum of Inertia/1Q1005 Pirouette/1Q1005.md
+          - file: book/1 mechanics/1Q rot dyn/1Q10 Momentum of Inertia/1Q1006 Rolling Downhill/1Q1006.md
+          - file: book/1 mechanics/1Q rot dyn/1Q10 Momentum of Inertia/1Q1007 Matchbox and Wineglass/1Q1007.md
+        - file: book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q20 TOC.md
+          sections: 
+          - file: book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2001 Dropping Rolls of Toilet Paper/1Q2001.md
+          - file: book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2002 Yo-Yo/1Q2002.md
+          - file: book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2003 Maxwheel/1Q2003.md
+          - file: book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2004 Rolling Downhill/1Q2004.md
+          - file: book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2005 Rolling Down a Wide Gutter/1Q2005.md
+        - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q40 TOC.md
+          sections: 
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4001 Magnet Symmetry/1Q4001.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4002 Colliding Magnets/1Q4002.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4003 Matchbox and Wineglass/1Q4003.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4004 Sweet Spot/1Q4004.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4005 Balls on a Rotating Ramp/1Q4005.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4006 Counter Rotating Disks/1Q4006.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4007 Dumb Bell/1Q4007.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4008 How an Astronaut can Turn Around in Free Space/1Q4008.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4009 Playing Tennis/1Q4009.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4010 Pirouette/1Q4010.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4011 Pulling the Rug/1Q4011.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4012 Tippe Top/1Q4012.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4013 Vibrating Stopwatch/1Q4013.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4014 Pulling a Spool/1Q4014.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4015 Spinning Bouncing Ball/1Q4015.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4016 Bicycle Wheel and Swivel Chair/1Q4016.md
+          - file: book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4017 Train and Track/1Q4017.md
+        - file: book/1 mechanics/1Q rot dyn/1Q50 Gyros/1Q50 TOC.md
+          sections: 
+          - file: book/1 mechanics/1Q rot dyn/1Q50 Gyros/1Q5001 Precession/1Q5001.md
+          - file: book/1 mechanics/1Q rot dyn/1Q50 Gyros/1Q5002 Precessing Orbit/1Q5002.md
+          - file: book/1 mechanics/1Q rot dyn/1Q50 Gyros/1Q5003 Precession AND Nutation/1Q5003.md
+          - file: book/1 mechanics/1Q rot dyn/1Q50 Gyros/1Q5004 Precession/1Q5004.md
+          - file: book/1 mechanics/1Q rot dyn/1Q50 Gyros/1Q5006 Nutation/1Q5006.md
+          - file: book/1 mechanics/1Q rot dyn/1Q50 Gyros/1Q5007 Nutation/1Q5007.md
+          - file: book/1 mechanics/1Q rot dyn/1Q50 Gyros/1Q5008 Precession/1Q5008.md
+          - file: book/1 mechanics/1Q rot dyn/1Q50 Gyros/1Q5009 Precession/1Q5009.md
+        - file: book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q60 TOC.md
+          sections: 
+          - file: book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q6002 Dumb Bell/1Q6002.md
+          - file: book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q6003 Stable Wheel/1Q6003.md
+          - file: book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q6004 Percussionpoint/1Q6004.md
+          - file: book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q6005 Percussionpoint/1Q6005.md
+          - file: book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q6006 Sleeper/1Q6006.md
+          - file: book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q6007 Tippe Top/1Q6007.md
+          - file: book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q6008 Rugbyball/1Q6008.md
+      - file: book/1 mechanics/1R properties of matter/1R TOC.md
+        sections: 
+        - file: book/1 mechanics/1R properties of matter/1R10 Hookes Law/1R10 TOC.md
+          sections: 
+          - file: book/1 mechanics/1R properties of matter/1R10 Hookes Law/1R1001 Hookes Law/1R1001.md
+  - caption: Fluid Mechanics
+    chapters:
+    - file: book/2 fluid mechanics/2 TOC.md
+      sections: 
+      - file: book/2 fluid mechanics/2A surface tension/2A TOC.md
+      - file: book/2 fluid mechanics/2B statics/2B TOC.md
+        sections: 
+        - file: book/2 fluid mechanics/2B statics/2B20 Static Pressure/2B20 TOC.md
+          sections: 
+          - file: book/2 fluid mechanics/2B statics/2B20 Static Pressure/2B2001 Rotating Liquid/2B2001.md
+      - file: book/2 fluid mechanics/2C dynamics/2C TOC.md
+        sections: 
+        - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C20 TOC.md
+          sections: 
+          - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2001 Magnus Effect/2C2001.md
+          - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2002 Magnus Effect/2C2002.md
+  - caption: Oscillations and Waves
+    chapters:
+    - file: book/3 oscillations and waves/3 TOC.md
+      sections: 
+      - file: book/3 oscillations and waves/3A osc/3A TOC.md
+        sections: 
+        - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A10 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1001 Mathematical Pendulum/3A1001.md
+          - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1002 Mathematical Pendulum/3A1002.md
+          - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1003 Mathematical Pendulum/3A1003.md
+          - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1004 Chaotic Pendulum/3A1004.md
+        - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A15 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1501 Physical Pendulum/3A1501.md
+          - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1502 Physical Pendulum/3A1502.md
+          - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1503 Physical Pendulum/3A1503.md
+        - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A40 TOC.md
+          sections:
+          - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4001 Mathematical Pendulum/3A4001.md
+          - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4002 Mathematical Pendulum/3A4002.md
+          - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4003 Simple Harmonic/3A4003.md
+          - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4004 Simple Harmonic/3A4004.md
+          - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4005 Simple Harmonic/3A4005.md
+        - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A50 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5001 Damped Harmonic/3A5001.md
+          - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5002 Damped Galvanometer/3A5002.md
+        - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A95 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A9501 Fakir/3A9501.md
+          - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A9502 Chaotic Pendulum/3A9502.md
+      - file: book/3 oscillations and waves/3B wave/3B TOC.md
+        sections: 
+        - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B10 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1001 Reflections of Transverse Pulses/3B1001.md
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1002 Speed of a Single Pulse on Different Strings/3B1002.md
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1003 Reflections of Transverse Pulses/3B1003.md
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1004 Speed of a Single Pulse on Different Strings/3B1004.md
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1005 Transverse Traveling Wave/3B1005.md
+          - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1006 Transverse Traveling Wave/3B1006.md
+        - file: book/3 oscillations and waves/3B wave/3B20 Longitudinal/3B20 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave/3B20 Longitudinal/3B2001 Reflected Sound Pulses/3B2001.md
+        - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B22 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2201 deBroglie Applied to Bohr/3B2201.md
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2202 Handheld Standing Waves/3B2202.md
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2203 Kundts Tube/3B2203.md
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2204 Sonometer by Hand/3B2204.md
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2205 Plucking a String/3B2205.md
+          - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2206 Microwave Oven Standing Waves/3B2206.md
+        - file: book/3 oscillations and waves/3B wave/3B25 Impendance and Dispersion/3B25 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave/3B25 Impendance and Dispersion/3B2501 Impedance Matching/3B2501.md
+        - file: book/3 oscillations and waves/3B wave/3B40 Doppler/3B40 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave/3B40 Doppler/3B4001 Doppler/3B4001.md
+      - file: book/3 oscillations and waves/3C acoustics/3C TOC.md
+        sections: 
+        - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50 TOC.md
+          sections: 
+          - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
+      - file: book/3 oscillations and waves/3D instruments/3D TOC.md
+      - file: book/3 oscillations and waves/3E sound reproduction/3E TOC.md
+  - caption: Thermodynamics
+    chapters:
+    - file: book/4 thermodynamics/4 TOC.md
+      sections: 
+      - file: book/4 thermodynamics/4A thermal properties of matter/4A TOC.md
+        sections: 
+        - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A10 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A1001 Constant Volume Gas Thermometer/4A1001.md
+          - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A1002 Inverted Thermometer/4A1002.md
+      - file: book/4 thermodynamics/4B heat and the first law/4B TOC.md
+        sections: 
+        - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B10 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B1001 Joules Experiment/4B1001.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B20 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B2001 Cooling by Insulation/4B2001.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B30 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B3001 Cooling by Insulation/4B3001.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B40 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4001 Cooling by Insulation/4B4001.md
+          - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4002 StefanBoltzmann Law for Radiation/4B4002.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B60 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6001 Joules Experiment/4B6001.md
+          - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6002 Smashing/4B6002.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7001 Clements and Desormes Experiment/4B7001.md
+          - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7002 Fire Pump/4B7002.md
+      - file: book/4 thermodynamics/4C change of state/4C TOC.md
+        sections: 
+        - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C10 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C1001 Compressing a Gas/4C1001.md
+          - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C1002 Work PdV/4C1002.md
+        - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes Liquid Gas/4C30 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes Liquid Gas/4C3001 Boiling to Freeze/4C3001.md
+        - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C31 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C3101 Evaporating Ether/4C3101.md
+        - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C33 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C3301 Dippy Bird/4C3301.md
+          - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C3302 Boiling Water at Reduced Pressure/4C3302.md
+      - file: book/4 thermodynamics/4D kinetic theory/4D TOC.md
+        sections: 
+        - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D10 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D1001 Brownian Motion/4D1001.md
+        - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D30 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3001 Radiometer of Crooks/4D3001.md
+          - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3002 Rain of Balls/4D3002.md
+      - file: book/4 thermodynamics/4E gas law/4E TOC.md
+      - file: book/4 thermodynamics/4F entropy and the second law/4F TOC.md
+        sections: 
+        - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1001 Falling Down or Falling Up/4F1001.md
+          - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1002 Irreversible Process/4F1002.md
+          - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1003 Violation of the Entropy Law/4F1003.md
+        - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30 TOC.md
+          sections: 
+          - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3001 Dippy Bird/4F3001.md
+          - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3002 Stirling Engine/4F3002.md
+  - caption: Electromagnetism
+    chapters:    
+    - file: book/5 EM/5 TOC.md
+      sections: 
+      - file: book/5 EM/5A electrostatics/5A TOC.md
+        sections: 
+        - file: book/5 EM/5A electrostatics/5A10 Producing Static Charge/5A10 TOC.md
+          sections: 
+          - file: book/5 EM/5A electrostatics/5A10 Producing Static Charge/5A1001 E Field in Material/5A1001.md
+        - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A20 TOC.md
+          sections: 
+          - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A2001 Coulombs Law/5A2001.md
+          - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A2002 E Field in Material/5A2002.md
+        - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A40 TOC.md
+          sections: 
+          - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4001 Charging by Induction/5A4001.md
+          - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4002 Polarising a Dielectric/5A4002.md
+          - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4003 E Field in Material/5A4003.md
+          - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4004 Water Dropper/5A4004.md
+        - file: book/5 EM/5A electrostatics/5A50 Electrostatic Machines/5A50 TOC.md
+          sections: 
+          - file: book/5 EM/5A electrostatics/5A50 Electrostatic Machines/5A5001 Water Dropper/5A5001.md
+      - file: book/5 EM/5B electric fields and potential/5B TOC.md
+        sections: 
+        - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B10 TOC.md
+          sections:
+          - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B1001 Charge and Field/5B1001.md
+          - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B1002 Charge is on the Outside/5B1002.md
+        - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B20 TOC.md
+          sections: 
+          - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2001 Gauss Law/5B2001.md
+          - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2002 Charge is on the Outside/5B2002.md
+          - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2003 Charge and Field/5B2003.md
+      - file: book/5 EM/5C capacitance/5C TOC.md
+        sections: 
+        - file: book/5 EM/5C capacitance/5C10 Capacitors/5C10 TOC.md
+          sections: 
+          - file: book/5 EM/5C capacitance/5C10 Capacitors/5C1020 Capacitor Spacing between the Plates/5C1020.md
+        - file: book/5 EM/5C capacitance/5C20 Dielectric/5C20 TOC.md
+          sections: 
+          - file: book/5 EM/5C capacitance/5C20 Dielectric/5C2001 Polarising a Dielectric/5C2001.md
+          - file: book/5 EM/5C capacitance/5C20 Dielectric/5C2002 Capacitor/5C2002.md
+        - file: book/5 EM/5C capacitance/5C30 Energy stored in a capacitor/5C30 TOC.md
+          sections: 
+          - file: book/5 EM/5C capacitance/5C30 Energy stored in a capacitor/5C3001 Capacitor/5C3001.md
+      - file: book/5 EM/5D resistance/5D TOC.md
+        sections: 
+        - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D20 TOC.md
+          sections: 
+          - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2001 PTC/5D2001.md
+          - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2002 NTC/5D2002.md
+      - file: book/5 EM/5E electromotive force and current/5E TOC.md
+      - file: book/5 EM/5F DC circuits/5F TOC.md
+        sections: 
+        - file: book/5 EM/5F DC circuits/5F15 Power and Energy/5F15 TOC.md
+          sections: 
+          - file: book/5 EM/5F DC circuits/5F15 Power and Energy/5F1501 Fuse Wires Parallel/5F1501.md
+        - file: book/5 EM/5F DC circuits/5F20 Circuit Analysis/5F20 TOC.md
+          sections: 
+          - file: book/5 EM/5F DC circuits/5F20 Circuit Analysis/5F2001 Fuse Wires Parallel/5F2001.md
+      - file: book/5 EM/5G magnetic materials/5G TOC.md
+        sections: 
+        - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20 TOC.md
+          sections: 
+          - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G2001 Barkhausen Effect/5G2001.md
+          - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G2002 Barkhausen Effect/5G2002.md
+        - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G40 TOC.md
+          sections: 
+          - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G4001 Barkhausen Effect/5G4001.md
+          - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G4002 Barkhausen Effect/5G4002.md
+      - file: book/5 EM/5H magnetic fields and forces/5H TOC.md
+        sections: 
+        - file: book/5 EM/5H magnetic fields and forces/5H10 Magnetic Fields/5H10 TOC.md
+          sections: 
+          - file: book/5 EM/5H magnetic fields and forces/5H10 Magnetic Fields/5H1001 Magnetic Fields/5H1001.md
+        - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H20 TOC.md
+          sections: 
+          - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H2001 Force between Magnets/5H2001.md
+          - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H2002 Force between Magnets/5H2002.md
+
+        - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H30 TOC.md
+          sections: 
+          - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3001 Force on Electrons in a Magnetic Field/5H3001.md
+          - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3002 Force on Electrons in a Magnetic Field/5H3002.md
+        - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H40 TOC.md
+          sections: 
+          - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4001 Force Effect of Current/5H4001.md
+          - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4002 Lorentz Force/5H4002.md
+          - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4003 Lorentz Force/5H4003.md
+          - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4004 Parallel Wires/5H4004.md
+        - file: book/5 EM/5H magnetic fields and forces/5H50 Torques on Coils/5H50 TOC.md
+          sections: 
+          - file: book/5 EM/5H magnetic fields and forces/5H50 Torques on Coils/5H5001 Current Loop in Magnetic Field/5H5001.md
+      - file: book/5 EM/5J inductance/5J TOC.md
+        sections: 
+        - file: book/5 EM/5J inductance/5J10 Self Inductance/5J10 TOC.md
+          sections: 
+          - file: book/5 EM/5J inductance/5J10 Self Inductance/5J1001 Self Inductance in AC Circuit/5J1001.md
+      - file: book/5 EM/5K electromagnetic induction/5K TOC.md
+        sections: 
+        - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K10 TOC.md
+          sections: 
+          - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K1001 Damped Galvanometer/5K1001.md
+          - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K1002 Skipping Rope/5K1002.md
+        - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K20 TOC.md
+          sections: 
+          - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K2001 Aragos Compass Needle/5K2001.md
+          - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K2002 Aragos Disk/5K2002.md
+        - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K30 TOC.md
+          sections: 
+          - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K3001 Electric Power Transmission Line/5K3001.md
+          - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K3002 Transformer/5K3002.md
+        - file: book/5 EM/5K electromagnetic induction/5K40 Motors and Generators/5K40 TOC.md
+          sections: 
+          - file: book/5 EM/5K electromagnetic induction/5K40 Motors and Generators/5K4001 Electric Motor/5K4001.md
+      - file: book/5 EM/5L AC circuits/5L TOC.md
+        sections: 
+        - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L20 TOC.md
+          sections: 
+          - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2001 Self Inductance in AC Circuit/5L2001.md
+          - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2002 Phase/5L2002.md
+          - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2003 LRC Circuits/5L2003.md
+      - file: book/5 EM/5M semiconductors and tubes/5M TOC.md
+      - file: book/5 EM/5N electromagnetic radiation/5N TOC.md
+        sections: 
+        - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N10 TOC.md
+          sections:
+          - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N1001 Electromagnetic Waves Lecher Lines/5N1001.md
+          - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N1002 Microwave Oven Standing Waves/5N1002.md
+  - caption: 6 optics
+    chapters:
+    - file: book/6 optics/6 TOC.md
+      sections: 
+      - file: book/6 optics/6A geometrical optics/6A TOC.md
+        sections: 
+        - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A01 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A0101 Foucault Michelson/6A0101.md
+        - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A10 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A1001 Confusing Mirrors/6A1001.md
+          - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A1002 Corner Cube/6A1002.md
+        - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4001 Chromatic Aberration/6A4001.md
+          - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4002 Curved Lightbeams/6A4002.md
+        - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A42 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A4201 Brewsters Angle/6A4201.md
+        - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4401 Brewsters Angle/6A4401.md
+          - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4402 Tunneling/6A4402.md
+        - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A60 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A6001 Chromatic Aberration/6A6001.md
+        - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A70 TOC.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A7001 Magnifying Glass/6A7001.md
+      - file: book/6 optics/6B photometry/6B TOC.md
+        sections: 
+        - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B30 TOC.md
+          sections: 
+          - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B3001 Radiation Pressure/6B3001.md
+      - file: book/6 optics/6C diffraction/6C TOC.md
+        sections: 
+        - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10 TOC.md
+          sections: 
+          - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1001 Resolution/6C1001.md
+          - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1002 Fraunhofer and Fresnel Diffraction/6C1002.md
+          - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1003 Youngs Double Slit/6C1003.md
+        - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20 TOC.md
+          sections: 
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2001 Diffraction introduction/6C2001.md
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2002 Diffraction Single Slit/6C2002.md
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2003 Diffraction Single Slit/6C2003.md
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2004 Fraunhofer and Fresnel Diffraction/6C2004.md
+      - file: book/6 optics/6D interference/6D TOC.md
+        sections: 
+        - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10 TOC.md
+          sections: 
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1001 Fresnel Double Mirror/6D1001.md
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1002 Fresnel Double Prism/6D1002.md
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1003 Lloyds Mirror/6D1003.md
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1004 Youngs Double Slit/6D1004.md
+        - file: book/6 optics/6D interference/6D20 Lasers/6D20 TOC.md
+          sections: 
+          - file: book/6 optics/6D interference/6D20 Lasers/6D2001 Speckle Spots and random Diffraction/6D2001.md
+        - file: book/6 optics/6D interference/6D30 Thin Films/6D30 TOC.md
+          sections: 
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D3001 Newtons Rings/6D3001.md
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D3002 Newtons Rings/6D3002.md
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D3003 Oil Film/6D3003.md
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D3004 Soap Film/6D3004.md
+      - file: book/6 optics/6F color/6F TOC.md
+        sections: 
+        - file: book/6 optics/6F color/6F30 Dispersion/6F30 TOC.md
+          sections: 
+          - file: book/6 optics/6F color/6F30 Dispersion/6F3001 Chromatic Aberration/6F3001.md
+      - file: book/6 optics/6H polarisation/6H TOC.md
+        sections: 
+        - file: book/6 optics/6H polarisation/6H20 Reflection/6H20 TOC.md
+          sections: 
+          - file: book/6 optics/6H polarisation/6H20 Reflection/6H2001 Brewsters Angle/6H2001.md
+          - file: book/6 optics/6H polarisation/6H20 Reflection/6H2002 Brewsters Angle/6H2002.md
+          - file: book/6 optics/6H polarisation/6H20 Reflection/6H2003 Brewsters Angle/6H2003.md
+        - file: book/6 optics/6H polarisation/6H35 Birefringence/6H35 TOC.md
+          sections: 
+          - file: book/6 optics/6H polarisation/6H35 Birefringence/6H3501 Brewsters Angle/6H3501.md
+      - file: book/6 optics/6J the eye/6J TOC.md
+      - file: book/6 optics/6Q modern optics/6Q TOC.md
+  - caption: 7 modern physics
+    chapters:
+    - file: book/7 modern physics/7 TOC.md
+      sections: 
+      - file: book/7 modern physics/7A quantum effects/7A TOC.md
+        sections: 
+        - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50 TOC.md
+          sections: 
+          - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5001 deBroglie Applied to Bohr/7A5001.md
+          - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5002 Tunneling/7A5002.md
+        - file: book/7 modern physics/7A quantum effects/7A60 X ray and Electron Diffraction/7A60 TOC.md
+          sections: 
+          - file: book/7 modern physics/7A quantum effects/7A60 X ray and Electron Diffraction/7A6001 Bragg Scattering/7A6001.md
+      - file: book/7 modern physics/7B atomic physics/7B TOC.md
+        sections: 
+        - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10 TOC.md
+          sections: 
+          - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B1001 Balmer Series/7B1001.md
+        - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50 TOC.md
+          sections: 
+          - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B5001 deBroglie Applied to Bohr/7B5001.md
+      - file: book/7 modern physics/7D nuclear physics/7D TOC.md
+      - file: book/7 modern physics/7E elementary particles/7E TOC.md
+      - file: book/7 modern physics/7F relativity/7F TOC.md
+        sections: 
+        - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10 TOC.md
+          sections: 
+          - file: book/7 modern physics/7F relativity/7F10 Relativity/7F1001 E mc2/7F1001.md
+  - caption: 8 astronomy
+    chapters:
+    - file: book/8 astronomy/8 TOC.md
+  #     sections:
+  #     - file: book/8 astronomy/8A celestial mechanics/8A TOC.md
+  #       sections: 
+  #       - file: book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1001.md
+  #       - file: book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1002.md
+  #       - file: book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1003.md
+  - caption: 9 miscellaneous
+    chapters:
+    - file: book/9 miscellaneous/9 TOC.md
+  - caption: Howto
+    chapters:    
+    - file: GHGL/GHGL.md
