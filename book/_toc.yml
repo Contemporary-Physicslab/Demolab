@@ -229,7 +229,7 @@ parts:
     chapters:
     - file: book/2 fluid mechanics/2 TOC.md
       sections: 
-      - file: book/2 fluid mechanics/2A surface tension/2A TOC.md
+      # - file: book/2 fluid mechanics/2A surface tension/2A TOC.md
       - file: book/2 fluid mechanics/2B statics/2B TOC.md
         sections: 
         - file: book/2 fluid mechanics/2B statics/2B20 Static Pressure/2B20 TOC.md
@@ -305,8 +305,8 @@ parts:
         - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50 TOC.md
           sections: 
           - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
-      - file: book/3 oscillations and waves/3D instruments/3D TOC.md
-      - file: book/3 oscillations and waves/3E sound reproduction/3E TOC.md
+      # - file: book/3 oscillations and waves/3D instruments/3D TOC.md
+      # - file: book/3 oscillations and waves/3E sound reproduction/3E TOC.md
   - caption: Thermodynamics
     chapters:
     - file: book/4 thermodynamics/4 TOC.md
@@ -365,7 +365,7 @@ parts:
           sections: 
           - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3001 Radiometer of Crooks/4D3001.md
           - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3002 Rain of Balls/4D3002.md
-      - file: book/4 thermodynamics/4E gas law/4E TOC.md
+      # - file: book/4 thermodynamics/4E gas law/4E TOC.md
       - file: book/4 thermodynamics/4F entropy and the second law/4F TOC.md
         sections: 
         - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10 TOC.md
@@ -428,7 +428,7 @@ parts:
           sections: 
           - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2001 PTC/5D2001.md
           - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2002 NTC/5D2002.md
-      - file: book/5 EM/5E electromotive force and current/5E TOC.md
+      # - file: book/5 EM/5E electromotive force and current/5E TOC.md
       - file: book/5 EM/5F DC circuits/5F TOC.md
         sections: 
         - file: book/5 EM/5F DC circuits/5F15 Power and Energy/5F15 TOC.md
@@ -499,7 +499,7 @@ parts:
           - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2001 Self Inductance in AC Circuit/5L2001.md
           - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2002 Phase/5L2002.md
           - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2003 LRC Circuits/5L2003.md
-      - file: book/5 EM/5M semiconductors and tubes/5M TOC.md
+   #   - file: book/5 EM/5M semiconductors and tubes/5M TOC.md
       - file: book/5 EM/5N electromagnetic radiation/5N TOC.md
         sections: 
         - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N10 TOC.md
@@ -586,7 +586,7 @@ parts:
         - file: book/6 optics/6H polarisation/6H35 Birefringence/6H35 TOC.md
           sections: 
           - file: book/6 optics/6H polarisation/6H35 Birefringence/6H3501 Brewsters Angle/6H3501.md
-      - file: book/6 optics/6J the eye/6J TOC.md
+      # - file: book/6 optics/6J the eye/6J TOC.md
       # - file: book/6 optics/6Q modern optics/6Q TOC.md
   - caption: 7 modern physics
     chapters:

@@ -41,3 +41,6 @@ sphinx:
       #use_multitoc_numbering: true
       launch_buttons:
         thebe: true
+
+html:
+  favicon: "figures/favicon.ico"
