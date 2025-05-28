@@ -9,13 +9,13 @@ Please note that this resource is still work in progress. However, all documente
 
 (how-we-work)=
 ## How we Work
-We consider our ***Demonstration Room*** as a shop and we sell our demonstrations for free. We seduce professors to use our facilities and expertise. We need to seduce them because professors are not familiar with all the ideas available and they certainly have no time to investigate all the possibilities that exist.
+We consider our ***Demonstration Room*** as a "shop" and we "sell" our demonstrations for free. We encourage professors to use our facilities and expertise. We need to encourage them because professors are not familiar with all the ideas available and they certainly have no time to investigate all the possibilities that exist.
 
 1. we have many demos in stock
 2. we know the physics
 3. we know about didactics
 4. we have theatrical experience
-5. we have experience in designing demonstrations and carrying them into effect
+5. we have experience in designing demonstrations and conducting them
 6. we know the literature and the ideas that are proposed worldwide and we keep up to date
 7. we know what is commercially available
 
@@ -45,7 +45,7 @@ From the Latin version of this verb it can be seen that we aim to show phenomena
 
 We propose demonstrations to the professors and in consultation with them we select what will be shown. In developing, designing, and preparing the demonstrations we also make choices about how to show it effectively to our students. Finally we show the demonstrations during the lecture when it is the appropriate moment so it fits in with the matter taught during that lecture.
 
-Currently (2023) we present around 300 demonstrations every year and this number is still increasing, because more professors see and experience the benefits of our services. Moreover also other faculties of our Technical University Delft and teachers from outside our university found their way to our demonstration facility. Our Demonstration Room is booming business!
+Currently (2025) we present around 300 demonstrations every year and this number is still increasing, because more professors see and experience the benefits of our services. Moreover also other faculties of our Technical University Delft and teachers from outside our university have found their way to our demonstration facility. Our Demonstration Room is a booming business!
 
 (introduction)=
 ## Demonstrations
@@ -53,7 +53,7 @@ Currently (2023) we present around 300 demonstrations every year and this number
 ```{index} how to demonstrate
 ```
 
-"How to demonstrate" means how to do it as effective as possible and with “effective” we mean that students really learn from the presented demonstrations. Demonstrations are commonly believed to help students learn science and to stimulate their interest. The latter objective is generally achieved: studies show that demonstrations are among students’ favorite elements of a course. But research on the first objective also shows that traditional demonstrations do not effectively help students grasp the underlying scientific concepts or correct their misconceptions, while teachers often think the opposite. Here we refer to two studies:
+"How to demonstrate" means how to do it as effectively as possible and with “effective” we mean that students really learn from the presented demonstrations. Demonstrations are commonly believed to help students learn science and to stimulate their interest. The latter objective is generally achieved: studies show that demonstrations are among students’ favorite elements of a course. But research on the first objective also shows that traditional demonstrations do not effectively help students grasp the underlying scientific concepts or correct their misconceptions, while teachers often think the opposite. Here we refer to two studies:
 
 * "Why may students fail to learn from demonstrations?" {cite:p}`roth1997may`
 * "Classroom demonstrations: Learning tools or entertainment?" {cite:p}`crouch2004classroom`
@@ -81,7 +81,7 @@ These studies show that students who passively observe demonstrations understand
 3. discuss it with fellow students
 4. hear the instructor's explanation.
 
-At our department we apply as much as possible the ***predict-method***. (The discuss-method needs too much time in our way of demonstrating). In the large lecture halls we question the prediction of the students before showing the demonstration. After a couple of minutes a multiple choice prediction is then presented to them. Then we show the demonstration and a short discussion follows.
+At our department we apply the ***predict-method*** as much as possible. (The discuss-method requires too much time in our way of demonstrating). In the large lecture halls we question the prediction of the students before showing the demonstration. After a couple of minutes a multiple choice prediction is then presented to them. Then we show the demonstration and a short discussion follows.
 
 
 <div style="display: flex; justify-content: center;">
