@@ -6,7 +6,7 @@ parts:
     chapters:
     - file: book/0 introduction/About.md
     - file: book/0 introduction/demolab.md
-    - file: book/0 introduction/Videos.md
+ #   - file: book/0 introduction/Videos.md not yet included
   - caption: Mechanics
     chapters:    
     - file: book/1 mechanics/1 TOC.md
@@ -587,7 +587,7 @@ parts:
           sections: 
           - file: book/6 optics/6H polarisation/6H35 Birefringence/6H3501 Brewsters Angle/6H3501.md
       - file: book/6 optics/6J the eye/6J TOC.md
-      - file: book/6 optics/6Q modern optics/6Q TOC.md
+      # - file: book/6 optics/6Q modern optics/6Q TOC.md
   - caption: 7 modern physics
     chapters:
     - file: book/7 modern physics/7 TOC.md
@@ -609,25 +609,23 @@ parts:
         - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50 TOC.md
           sections: 
           - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B5001 deBroglie Applied to Bohr/7B5001.md
-      - file: book/7 modern physics/7D nuclear physics/7D TOC.md
-      - file: book/7 modern physics/7E elementary particles/7E TOC.md
+      # - file: book/7 modern physics/7D nuclear physics/7D TOC.md
+      # - file: book/7 modern physics/7E elementary particles/7E TOC.md
       - file: book/7 modern physics/7F relativity/7F TOC.md
         sections: 
         - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10 TOC.md
           sections: 
           - file: book/7 modern physics/7F relativity/7F10 Relativity/7F1001 E mc2/7F1001.md
-  - caption: 8 astronomy
-    chapters:
-    - file: book/8 astronomy/8 TOC.md
+  # - caption: 8 astronomy
+  #   chapters:
+  #   - file: book/8 astronomy/8 TOC.md
   #     sections:
   #     - file: book/8 astronomy/8A celestial mechanics/8A TOC.md
   #       sections: 
   #       - file: book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1001.md
   #       - file: book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1002.md
   #       - file: book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1003.md
-  - caption: 9 miscellaneous
-    chapters:
-    - file: book/9 miscellaneous/9 TOC.md
-  - caption: Howto
-    chapters:    
-    - file: GHGL/GHGL.md
+  # - caption: 9 miscellaneous
+  #   chapters:
+  #   - file: book/9 miscellaneous/9 TOC.md
+ 
