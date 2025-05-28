@@ -36,7 +36,7 @@ In the matter of physics, the first lessons should contain nothing but what is e
 ```
 
 :::{ }
-De monstrare = `Demonstrate`
+De monstrare = "Demonstrate"
 "De" has the meaning of: intensification
 "monstrare" = to show
 :::

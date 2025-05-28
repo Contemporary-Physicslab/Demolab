@@ -22,7 +22,7 @@ You can contribute to this book in various ways:
 
 If you see a typo, if something is not clear, or anything needs to be adjusted, click the <i class="fa-brands fa-github"></i> button at the top of the screen and open an issue by clicking on the {fa}`lightbulb` button. (You need to have a github account though). We then get a notification and address the issue as soon as possible.
 
-If you have want to add your material, you can do so by [contacting us](c.f.j.pols@tudelft.nl). You can become a team-member of the github repository and are allowed to add materials. If you are interested how this work, see the [teachbooks manual](https://teachbooks.io/manual/workflows/collaboration.html) on the matter.
+If you have want to add your material, you can do so by contacting us. You can become a team-member of the github repository and are allowed to add materials. If you are interested how this work, see the [teachbooks manual](https://teachbooks.io/manual/workflows/collaboration.html) on the matter.
 
 ## Editors
 Ron Haaksman  
