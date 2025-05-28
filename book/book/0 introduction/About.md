@@ -1,6 +1,6 @@
 # About this book
 
-This book started off as a collection of pdfs from the '90s. We realised this was a valuable but static and outdated archive. We envisioned an updated online and dynamic repository of physics demonstrations which is accessible to all. By utilizing [GitHub](https://github.com) we would enable others to contribute, allow them to offer suggestions, fix bugs, while maintaining version control and ensuring quality. Our ultimate goal was to create a ‘living’, ‘ever-growing’ repository where the quality of the demonstrations can be continuously enhanced through active contributions from fellow educators, see {ref}`fig_infograph`. 
+This book started off as a collection of pdf's from the '90s. We realised this was a valuable but static and outdated archive. We envisioned an updated online and dynamic repository of physics demonstrations which is accessible to all. By utilizing [GitHub](https://github.com) we would enable others to contribute, allow them to offer suggestions, fix bugs, while maintaining version control and ensuring quality. Our ultimate goal was to create a ‘living’, ‘ever-growing’ repository where the quality of the demonstrations can be continuously enhanced through active contributions from fellow educators, see {ref}`fig_infograph`. 
 
 ```{figure} Infographic.png
 :width: 60%
@@ -9,7 +9,7 @@ This book started off as a collection of pdfs from the '90s. We realised this wa
 Our approach to creating a living, ever-growing repository.
 ```
 
-Hence we set to work, converting the pdfs to markdown files (the work of Luuk Fröling) and creating a first [Jupyter Book](https://jupyterbook.org/). All drawings were remade, resulting in high-quality vector drawings (the work of Hanna den Hertog). New pictures and video's were made (with the help of Tom Haanstra). Where possible, python codes where added, allowing for simulations and data analysis. This resulted in this book 'The Demonstration Laboratory'. 
+Hence we set to work, converting the pdf's to markdown files (the work of Luuk Fröling) and creating a first [Jupyter Book](https://jupyterbook.org/). All drawings were remade, resulting in high-quality vector drawings (the work of Hanna den Hertog). New pictures and video's were made (with the help of Tom Haanstra). Where possible, python codes where added, allowing for simulations and data analysis. This resulted in this book 'The Demonstration Laboratory'. 
 
 We consider the book not finished, as it is intended as an ever expanding repository. The book is an output of a dynamic repository. We can add and change demonstrations, improve the quality of descriptions, add code, and so on. You may contribute to this, and you will be recognized for it! 
 
