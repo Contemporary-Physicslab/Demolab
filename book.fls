@@ -1,0 +1,4 @@
+PWD C:\Users\fpols\Documents\GitHub\Contemporary Physics\Demolab
+INPUT C:\Users\fpols\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT book\_build\latex\book.tex
+OUTPUT book.log
