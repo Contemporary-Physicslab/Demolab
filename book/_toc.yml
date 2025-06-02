@@ -16,6 +16,7 @@ parts:
         - file: book/1 mechanics/1A measurement/1A20 Error and Accuracy/1A20 TOC.md
           sections: 
           - file: book/1 mechanics/1A measurement/1A20 Error and Accuracy/1A2001 Hookes Law/1A2001.md
+          - file: book/1 mechanics/1A measurement/1A20 Error and Accuracy/1A2002 Determining g/1A2002.md
         - file: book/1 mechanics/1A measurement/1A40 Vectors/1A40 TOC.md
           sections: 
           - file: book/1 mechanics/1A measurement/1A40 Vectors/1A4001 Cross Product/1A4001.md
