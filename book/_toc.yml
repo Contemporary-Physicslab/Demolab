@@ -626,7 +626,9 @@ parts:
   #       - file: book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1001.md
   #       - file: book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1002.md
   #       - file: book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1003.md
-  # - caption: 9 miscellaneous
-  #   chapters:
-  #   - file: book/9 miscellaneous/9 TOC.md
+  - caption: 9 miscellaneous
+    chapters:
+    - file: book/9 miscellaneous/9 TOC.md
+      sections: 
+      - file: book/9 miscellaneous/test.md
  
