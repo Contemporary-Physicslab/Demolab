@@ -631,4 +631,6 @@ parts:
     - file: book/9 miscellaneous/9 TOC.md
       sections: 
       - file: book/9 miscellaneous/test.md
+      - url: https://interactivetextbooks.tudelft.nl/showthephysics
+        title: Show the Physics
  
