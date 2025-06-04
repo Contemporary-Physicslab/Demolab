@@ -243,7 +243,6 @@ parts:
           - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2001 Magnus Effect/2C2001.md
           - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2002 Magnus Effect/2C2002.md
         - file: book/2 fluid mechanics/2C dynamics/2C40 Turbulent/2C40 TOC.md
-          title: Turbulent flow
           sections: 
           - url: https://gtbhobbyphysics.blogspot.com/2025/04/tornado-tower.html
             title: Tornado tower      
