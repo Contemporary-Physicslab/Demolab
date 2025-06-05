@@ -29,7 +29,14 @@ The tube is rotated over 180 degrees, such that the lead shot drops from one end
 ```{figure} figures/figure_4B60.03b.jpg  
 ---  
 width: 70%  
-name: 4b6002/figure_4B60.03b.jpg  
+name: 4b6003/figure_4B60.03b.jpg  
+---  
+. 
+```
+```{figure} figures/figure_4B60.03c.jpg  
+---  
+width: 70%  
+name: 4b6003/figure_4B60.03c.jpg  
 ---  
 . 
 ```
