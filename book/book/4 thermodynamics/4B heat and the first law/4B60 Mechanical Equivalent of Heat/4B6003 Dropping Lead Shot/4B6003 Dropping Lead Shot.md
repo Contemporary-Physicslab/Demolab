@@ -2,7 +2,7 @@
   
 ## Aim   
  
- *  To show an example of energy conversion.
+ *  To demonstrate the mechanical equivalent of heat.
    
   
 ## Subjects   
@@ -25,7 +25,7 @@ name: 4b6003/figure_4B6003a.jpg
    
   
 ## Presentation   
-The tube is rotated over 180 degrees, such that the lead shot drops from one end of the tube to the other end (see the enlarged {numref}`Figure {number} <4b6003/figure_4B60.03b.jpg>`). 
+The tube is rotated several times over 180 degrees, such that the lead shot drops from one end of the tube to the other end (see the enlarged {numref}`Figure {number} <4b6003/figure_4B60.03b.jpg>`). 
 ```{figure} figures/figure_4B60.03b.jpg  
 ---  
 width: 70%  
@@ -60,7 +60,7 @@ The actual measured temperature rise is significantly lower and is approxmately 
 - poor thermal conductivity between the lead shot and the thermistor
 - the lead shot slides down the tube instead of falling from one end to the other end of the tube
 
-Taking into account the heat capacity of the alluminium plate, the conservation of mechanical energy we get:
+Taking into account the heat capacity of the alluminium plate, the conservation of mechanical energy gives:
 
 $m_{Pb}gh = m_{Pb}C_{p,Pb} \Delta{T_{Pb}} + m_{Al}C_{p,Al} \Delta{T_{Al}}$
 
@@ -75,7 +75,7 @@ $\Delta{T} = \frac{0.100 \cdot 9.81 \cdot 13}{0.100 \cdot 130 + 0.006 \cdot 900}
 This is a more accurate estimate of the measured temperature rise.
   
 ## Remarks
- *  Ascertain that when performing the demonstration of rotating the tube, that after the final rotation the lead shot is near the end of the tube where the thermistor is mounted, such that the lead can give off its heat to the thermistor.   
+ *  Ascertain that when the demonstration is performed, that after the final rotation the lead shot is near the end of the tube where the thermistor is mounted, such that the lead can give off its heat to the thermistor.   
   
 ## Sources
  *  [www.teachersource.com/](https://www.teachersource.com/product/smashing-steel-sphere-demo-kit).
