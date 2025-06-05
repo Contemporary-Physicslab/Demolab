@@ -10,31 +10,30 @@
 
 ## Diagram
    
-```{figure} figures/figure_0.png  
+```{figure} figures/figure_4B60.03a.jpg  
 ---  
 width: 70%  
-name: 4b6002/figure_0.png  
+name: 4b6003/figure_4B6003.jpg  
 ---  
 . 
 ```
      
   
 ## Equipment   
-- Two large chrome steel spheres (we use spheres with a diameter of $63 \mathrm{~mm}$ $(m \approx 1 \mathrm{~kg})$.
-- Sheet of paper $\left(80 \mathrm{~g} / \mathrm{m}^{2}\right)$.
-- Document camera.
+- A 1 meter long perspex tube filled with 0.100 kg lead shot, and a thermistor mounted inside the tube.
+- Data acquisition to display the temperature reading (PASCO).
    
   
 ## Presentation   
-The two $1 \mathrm{~kg}$, chrome steel spheres are smashed together, while the sheet of paper is between them. At the point of contact a hole is burned in the piece of paper (see the enlarged {numref}`Figure {number} <4b6002/figure_1.png>`). 
-```{figure} figures/figure_1.png  
+The tube is rotated over 180 degrees, such that the lead shot drops from one end of the tube to the other end (see the enlarged {numref}`Figure {number} <4b6003/figure_4B60.03b.jpg>`). 
+```{figure} figures/figure_4B60.03.jpg  
 ---  
 width: 70%  
-name: 4b6002/figure_1.png  
+name: 4b6002/figure_4B60.03b.jpg  
 ---  
 . 
 ```
-The demonstrator will smell the odour of burnt paper. Also a charred hole appears (see the brown rim in {numref}`Figure {number} <4b6002/figure_1.png>`). To convince the audience, this hole is shown to them using a document camera (is present in our lecture rooms).
+The temperature is displayed real time (see the brown rim in {numref}`Figure {number} <4b6003/figure_4B60.03c.jpg>`). Additionaly the students can observe the temperature rise that the thermistor registers.
   
 ## Explanation   
 This demonstration just illustrates the conversion of mechanical energy into heat energy.
