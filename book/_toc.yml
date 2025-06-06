@@ -341,6 +341,7 @@ parts:
           sections: 
           - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6001 Joules Experiment/4B6001.md
           - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6002 Smashing/4B6002.md
+          - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6003 Dropping Lead Shot/4B6003 Dropping Lead Shot.md
         - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70 TOC.md
           sections: 
           - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7001 Clements and Desormes Experiment/4B7001.md
