@@ -75,7 +75,7 @@ $\Delta{T} = \frac{0.100 \cdot 9.81 \cdot 13}{0.100 \cdot 130 + 0.006 \cdot 900}
 This is a more accurate estimate of the actual temperature rise.
   
 ## Remarks
- *  Ascertain that when the demonstration is performed, that after the final rotation the lead shot is at the end of the tube where the thermistor is mounted, such that the lead can give off its heat to the thermistor.   
+ *  Ascertain that when the demonstration is performed, that after the final rotation the lead shot is at the end of the tube where the thermistor is mounted, such that the lead shot continues to give off its heat to the thermistor.   
   
 ## Sources
  *  
