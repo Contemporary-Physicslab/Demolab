@@ -54,9 +54,9 @@ Solving for the temperature rise $\Delta{T}$, and given that lead has a specific
 
 $\Delta{T} = \frac{gh}{C_{p,Pb}} = \frac{9.81 \cdot 13}{130} \approx 1^{\circ}\mathrm{C}$
 
-The actual measured temperature rise is significantly lower and is approxmately $\Delta{T} \approx 0.26^{\circ}{C}$, which is probably due to the following factors:
+The measured temperature rise is significantly lower and is approxmately $\Delta{T} \approx 0.26^{\circ}{C}$, which is probably due to the following factors:
 
-- not only does the lead shot heat up, but also other materials, such as the alluminium plate onto which the thermistor is fixed
+- not only does the lead shot heat up, but also other materials, such as the alluminium plate onto which the thermistor is fixed (note that the mass of the lead shot drops out of the first expression)
 - poor thermal conductivity between the lead shot and the thermistor
 - the lead shot slides down the tube instead of falling from one end to the other end of the tube
 
@@ -72,7 +72,7 @@ or:
 
 $\Delta{T} = \frac{0.100 \cdot 9.81 \cdot 13}{0.100 \cdot 130 + 0.006 \cdot 900}\approx 0.69^{\circ}\mathrm{C}$
 
-This is a more accurate estimate of the measured temperature rise.
+This is a more accurate estimate of the actual temperature rise.
   
 ## Remarks
  *  Ascertain that when the demonstration is performed, that after the final rotation the lead shot is at the end of the tube where the thermistor is mounted, such that the lead can give off its heat to the thermistor.   
