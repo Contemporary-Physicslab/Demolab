@@ -30,6 +30,7 @@ Freek Pols
 
 ## Authors
 Egbert Balsma  
+Peter Kikstra
 ...
 
 ## Contributors
