@@ -1,6 +1,8 @@
 format: jb-book
 root: book/index
 
+
+# parts are commented as these seem to be copies of work from others
 parts:
   - caption: TU Delft DemoLab
     chapters:
