@@ -130,7 +130,7 @@ parts:
           - file: book/1 mechanics/1M work and energy/1M10 Work/1M1001 How much Work to Break a Soup Tureen/1M1001.md
         - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M40 TOC.md
           sections: 
-          - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4001 Gauss Rifle/1M4001.md
+      #    - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4001 Gauss Rifle/1M4001.md #copyright issue
           - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4002 Kinetic Energy in an Elastic Collision/1M4002.md
           - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4003 Mortar/1M4003.md
           - file: book/1 mechanics/1M work and energy/1M40 Conserv of Energy/1M4004 Galileos Pendulum/1M4004.md                  
@@ -465,7 +465,7 @@ parts:
 
         - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H30 TOC.md
           sections: 
-          - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3001 Force on Electrons in a Magnetic Field/5H3001.md
+          # - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3001 Force on Electrons in a Magnetic Field/5H3001.md #copyright issue
           - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3002 Force on Electrons in a Magnetic Field/5H3002.md
         - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H40 TOC.md
           sections: 
@@ -530,11 +530,11 @@ parts:
           - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4001 Chromatic Aberration/6A4001.md
           - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4002 Curved Lightbeams/6A4002.md
         - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A42 TOC.md
-          sections: 
-          - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A4201 Brewsters Angle/6A4201.md
+          # sections: 
+          # - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A4201 Brewsters Angle/6A4201.md #copyright issue
         - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44 TOC.md
           sections: 
-          - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4401 Brewsters Angle/6A4401.md
+          # - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4401 Brewsters Angle/6A4401.md   #copyright issue
           - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4402 Tunneling/6A4402.md
         - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A60 TOC.md
           sections: 
