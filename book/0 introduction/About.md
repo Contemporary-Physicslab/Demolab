@@ -58,8 +58,8 @@ Lorentzweg 1
 2628 CJ Delft  
 The Netherlands  
 E-mail: R.P.H.Haaksman_at_TUDelft.nl
-::{figure} ../../figures/Ron.jpg
-::
+:::{figure} ../../figures/Ron.jpg
+:::
 ```
 
 ```{card} F. Pols  
@@ -68,7 +68,7 @@ Lorentzweg 1
 2628 CJ Delft  
 The Netherlands  
 E-mail: c.f.j.pols_at_tudelft.nl
-::{figure} ../../figures/pols.jpg
-::
+:::{figure} ../../figures/pols.jpg
+:::
 ```
 ````
