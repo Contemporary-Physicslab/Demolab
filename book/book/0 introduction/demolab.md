@@ -20,9 +20,8 @@ We consider our ***Demonstration Room*** as a "shop" and we "sell" our demonstra
 7. we know what is commercially available
 
 ```{figure} ../../figures/Ron.jpg
----
-width: 70%
----
+:width: 70%
+
 Ron Haaksman
 ```
 
@@ -50,9 +49,8 @@ We propose demonstrations to the professors and in consultation with them we sel
 Currently (2025) we present around 300 demonstrations every year and this number is still increasing, because more professors see and experience the benefits of our services. Moreover also other faculties of our Technical University Delft and teachers from outside our university have found their way to our demonstration facility. Our Demonstration Room is a booming business!
 
 ```{figure} ../../figures/pols.jpg
----
-width: 70%
----
+:width: 70%
+
 Freek Pols
 ```
 
@@ -92,18 +90,8 @@ These studies show that students who passively observe demonstrations understand
 
 At our department we apply the ***predict-method*** as much as possible. (The discuss-method requires too much time in our way of demonstrating). In the large lecture halls we question the prediction of the students before showing the demonstration. After a couple of minutes a multiple choice prediction is then presented to them. Then we show the demonstration and a short discussion follows.
 
-
-<div style="display: flex; justify-content: center;">
-    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
-        <iframe
-            src="https://www.youtube.com/embed/yJ2Qu7IOlDs?si=bVn2oxlUtIxl3CXi"
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-        ></iframe>
-    </div>
-</div>
+```{iframe} https://www.youtube.com/embed/yJ2Qu7IOlDs?si=bVn2oxlUtIxl3CXi
+```
 
 ## References
 ```{bibliography}

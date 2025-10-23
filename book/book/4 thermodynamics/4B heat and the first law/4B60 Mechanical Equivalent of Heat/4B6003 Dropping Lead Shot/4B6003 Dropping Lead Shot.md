@@ -11,10 +11,9 @@
 ## Diagram
    
 ```{figure} figures/figure_4B60.03a.jpg  
----  
-width: 70%  
-name: 4b6003/figure_4B6003a.jpg  
----  
+:width: 70%  
+:label: 4b6003_figure_4B6003a.jpg  
+
 . 
 ```
      
@@ -25,22 +24,20 @@ name: 4b6003/figure_4B6003a.jpg
    
   
 ## Presentation   
-The tube is rotated several times over 180 degrees, such that the lead shot drops from one end of the tube to the other end (see the enlarged {numref}`Figure {number} <4b6003/figure_4B60.03b.jpg>`). 
+The tube is rotated several times over 180 degrees, such that the lead shot drops from one end of the tube to the other end (see the enlarged {numref}`Figure {number} <4b6003_figure_4B60.03b.jpg>`). 
 ```{figure} figures/figure_4B60.03b.jpg  
----  
-width: 70%  
-name: 4b6003/figure_4B60.03b.jpg  
----  
+:width: 70%  
+:label: 4b6003_figure_4B60.03b.jpg  
+
 . 
 ```
 ```{figure} figures/figure_4B60.03c.jpg  
----  
-width: 70%  
-name: 4b6003/figure_4B60.03c.jpg  
----  
+:width: 70%  
+:label: 4b6003_figure_4B60.03c.jpg  
+
 . 
 ```
-The temperature and the temperature rise is displayed real time (see the inset in the graph in {numref}`Figure {number} <4b6003/figure_4B60.03c.jpg>`).
+The temperature and the temperature rise is displayed real time (see the inset in the graph in {numref}`Figure {number} <4b6003_figure_4B60.03c.jpg>`).
 
   
 ## Explanation   

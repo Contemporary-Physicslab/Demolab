@@ -1,0 +1,24 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: The Demonstration Laboratory
+  # description:
+  keywords: [physics; education; demonstrations; experiments]
+  authors: [Freek Pols & Ron Haaksman]
+  date: 2025-10-17
+  github: https://github.com/Contemporary-Physicslab/Demolab
+  
+
+extends:
+  - toc.yml
+  - export.yml
+
+site:
+  template: book-theme
+  options:
+    favicon: figures/favicon.ico
+    logo: figures/logo.png
+
+  actions:
+    - title: A URL
+      url: https://mystmd.org
