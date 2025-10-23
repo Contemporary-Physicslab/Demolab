@@ -7,11 +7,9 @@ project:
         - file: book/0 introduction/About.md
         - file: book/0 introduction/demolab.md
 
-
-
-    - title: Mechanics
+    - title: 1 Mechanics
       children:
-        - title: Measurement
+        - title: 1A Measurement
           children:
             - title: 1A20 Error and Accuracy
               children:
@@ -218,7 +216,7 @@ project:
               children:
                 - file: book/1 mechanics/1R properties of matter/1R10 Hookes Law/1R1001 Hookes Law/1R1001.md
 
-    - title: Fluid Mechanics
+    - title: 2 Fluid Mechanics
       children:
         - title: 2B Statics
           children:
@@ -237,7 +235,7 @@ project:
                 - title: Tornado Tower
                   children: []
 
-    - title: Oscillations and Waves
+    - title: 3 Oscillations and Waves
       children:
         - title: 3A Oscillations
           children:
@@ -302,7 +300,7 @@ project:
               children:
                 - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
 
-    - title: Thermodynamics
+    - title: 4 Thermodynamics
       children:
         - title: 4A Thermal Properties of Matter
           children:
@@ -375,7 +373,7 @@ project:
                 - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3001 Dippy Bird/4F3001.md
                 - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3002 Stirling Engine/4F3002.md
 
-    - title: Electromagnetism
+    - title: 5 Electromagnetism
       children:
         - title: 5A Electrostatics
           children:
