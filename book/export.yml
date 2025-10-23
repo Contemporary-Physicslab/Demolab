@@ -1,0 +1,54 @@
+version: 1
+project:
+
+  plugins:
+#     - https://github.com/jupyter-book/myst-plugins/releases/download/iframe-to-qr-pdf/iframe-to-qr-pdf.mjs
+    - iframe-to-qr-pdf.mjs
+    - typst.mjs
+
+  downloads:
+    - id: output-pdf
+
+  exports:
+    - id: output-pdf
+      format: typst
+      template: https://github.com/myst-templates/plain_typst_book.git
+      output: export/demobook.pdf
+# additional options #
+
+# Include a figure at the cover page
+      cover: figures/coverbook.jpg
+      coverposition: 2  #in cm from title
+      cover_width: 12 #in cm
+
+# ToC
+      ToC_depth: 2
+      show_ToC: true
+
+# Page settings
+      #### Logo at top of position
+      # logo: logo.svg
+      # logo_width: 10
+
+      #### Looks
+      papersize: a4
+      margin_top: 2 #cm
+      margin_bottom: 2 #cm
+      margin_left: 10 #%
+      margin_right: 10 #%
+      show_pagenumber: true
+
+      #### Fonts
+      fontsize: 12
+      fontstyle: 
+      linespacing: .5
+      justification: false
+      
+      #### Theme
+      colortheme: blue.darken(30%)
+      colorheadings: navy
+      
+# Preface
+      preface:
+      
+
