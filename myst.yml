@@ -5,7 +5,7 @@ project:
   # description:
   keywords: [physics; education; demonstrations; experiments]
   authors: [Freek Pols & Ron Haaksman]
-  date: 2025-10-17
+  date: 2025-10-23
   github: https://github.com/Contemporary-Physicslab/Demolab
   
 
@@ -20,5 +20,5 @@ site:
     logo: figures/logo.png
 
   actions:
-    - title: A URL
-      url: https://mystmd.org
+    - title: PDF
+      url: ./export/demobook

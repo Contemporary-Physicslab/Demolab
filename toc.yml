@@ -619,4 +619,5 @@ project:
       children:
         - file: book/9 miscellaneous/test.md
         - title: Show the Physics
+          url: https://interactivetextbooks.tudelft.nl/showthephysics
           children: []
