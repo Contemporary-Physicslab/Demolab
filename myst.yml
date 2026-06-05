@@ -8,7 +8,8 @@ project:
   date: 2025-10-23
   github: https://github.com/Contemporary-Physicslab/Demolab
   
-
+  plugins:
+    - lightbox.mjs
 extends:
   - toc.yml
   - export.yml
