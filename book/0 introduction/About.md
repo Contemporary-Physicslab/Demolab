@@ -43,6 +43,15 @@ Carola van der Muren (and her team of TA's)
 CC-BY-4.0  
 All drawings have been made by Hanna den Hartog. The videos were mainly recorded for the various courses at the Applied Physics and Nanobiology program at Delft University of Technology.
 
+## Disclaimer
+The demonstrations presented in this book are not claimed to be original. Many of them are inspired by, adapted from, or closely related to demonstrations that have been developed and published by physics educators, researchers, and institutions worldwide.
+
+As this collection was built upon an existing repository of demonstrations and has evolved through contributions from multiple sources, it is possible that some demonstrations lack complete attribution despite our best efforts to identify and acknowledge original contributors. We have conducted several reviews to verify sources and provide appropriate credit where known; however, omissions or inaccuracies may remain.
+
+If you recognize a demonstration for which attribution is missing, incomplete, or incorrect, we would greatly appreciate hearing from you. Please contact the editors so that we can correct the record in future editions and ensure proper recognition of the original creators.
+
+Our goal is to support the sharing of effective physics demonstrations while respecting and acknowledging the contributions of the educators and practitioners who developed them.
+
 ## Contact
 
 ````{grid} 1 1 3 3
