@@ -135,3 +135,6 @@ plagiaatscan/
 
 # poetry files
 pyproject.toml
+
+# additional
+admin
