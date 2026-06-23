@@ -85,19 +85,19 @@ project:
                 - file: book/1 mechanics/1K apply newton/1K10 Dynamic Torque/1K1004 Falling Stick/1K1004.md
                 - file: book/1 mechanics/1K apply newton/1K10 Dynamic Torque/1K1005 Throwing a Basketball/1K1005.md
               
-        - title: 1K20 Friction
-          children:
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2001 Braking/1K2001.md
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2002 Phonebook Friction/1K2002.md
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2004 Falling Stick/1K2004.md
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2005 Throwing a Basketball/1K2005.md
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2006 Chain Friction/1K2006.md
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2007 Moving Two Fingers under a Meterstick/1K2007.md
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2008 No Tipping Allowed/1K2008.md
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2009 Pulling a Sliding Block/1K2009.md
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2010 Rolling Up and Down Again and Again/1K2010.md
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2011 Rope on a Table/1K2011.md
-            - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2012 Sliding Towel/1K2012.md
+            - title: 1K20 Friction
+              children:
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2001 Braking/1K2001.md
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2002 Phonebook Friction/1K2002.md
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2004 Falling Stick/1K2004.md
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2005 Throwing a Basketball/1K2005.md
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2006 Chain Friction/1K2006.md
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2007 Moving Two Fingers under a Meterstick/1K2007.md
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2008 No Tipping Allowed/1K2008.md
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2009 Pulling a Sliding Block/1K2009.md
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2010 Rolling Up and Down Again and Again/1K2010.md
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2011 Rope on a Table/1K2011.md
+                - file: book/1 mechanics/1K apply newton/1K20 Friction/1K2012 Sliding Towel/1K2012.md
 
         - title: 1L Gravity
           children:
@@ -622,3 +622,5 @@ project:
         - title: Show the Physics
           url: https://interactivetextbooks.tudelft.nl/showthephysics
           children: []
+    
+    - file: book/showindex.md

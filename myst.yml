@@ -11,7 +11,7 @@ project:
   
 extends:
   - toc.yml
-  - export.yml
+  - export_typst.yml
   - https://gitlab.tudelft.nl/oicm/assets/-/raw/main/plugins.yml?ref_type=heads
   - https://gitlab.tudelft.nl/oicm/assets/-/raw/main/style.yml?ref_type=heads
   
