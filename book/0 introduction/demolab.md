@@ -60,7 +60,7 @@ Freek Pols
 ```{index} how to demonstrate
 ```
 
-"How to demonstrate" means how to do it as effectively as possible and with “effective” we mean that students really learn from the presented demonstrations. Demonstrations are commonly believed to help students learn science and to stimulate their interest. The latter objective is generally achieved: studies show that demonstrations are among students’ favorite elements of a course. But research on the first objective also shows that traditional demonstrations do not effectively help students grasp the underlying scientific concepts or correct their misconceptions, while teachers often think the opposite. Here we refer to two studies:
+"How to demonstrate" means how to do it as effectively as possible and with “effective” we mean that students really learn from the presented demonstrations. Demonstrations are _commonly believed to help students learn science and to stimulate their interest_. The latter objective is generally achieved: studies show that _demonstrations are among students’ favorite elements of a course_. But research on the first objective also shows that _traditional demonstrations do not effectively help students grasp the underlying scientific concepts or correct their misconceptions_, while teachers often think the opposite. Here we refer to two studies:
 
 * "Why may students fail to learn from demonstrations?" {cite:p}`roth1997may`
 * "Classroom demonstrations: Learning tools or entertainment?" {cite:p}`crouch2004classroom`
@@ -68,7 +68,9 @@ Freek Pols
 ```{index} student engagement, presenting demonstrations, knowledge retention
 ```
 
-These studies show that students who passively observe demonstrations understand the underlying concepts no better than students who do not see the demonstration at all! Learning is enhanced, however, by increasing student engagement. The key to an effective demonstration is interaction with the audience. Students who predict the demonstration outcome before seeing it, display significant greater understanding {cite:p}`crouch2004classroom`.
+These studies show that students who (only) passively observe demonstrations will _understand the underlying concepts no better than students who do not see the demonstration at all!_ Learning is enhanced, however, by increasing student engagement. The key to an effective demonstration is interaction with the audience. _Students who predict the demonstration outcome before seeing it, display significant greater understanding_ {cite:p}`crouch2004classroom`.
+
+Three different approaches to demonstrations:
 
 ***Observe***:
 
@@ -88,7 +90,7 @@ These studies show that students who passively observe demonstrations understand
 3. discuss it with fellow students
 4. hear the instructor's explanation.
 
-At our department we apply the ***predict-method*** as much as possible. (The discuss-method requires too much time in our way of demonstrating). In the large lecture halls we question the prediction of the students before showing the demonstration. After a couple of minutes a multiple choice prediction is then presented to them. Then we show the demonstration and a short discussion follows.
+At our department we apply the **predict**-method as much as possible. (The discuss-method requires too much time in our way of demonstrating). In the large lecture halls we question the prediction of the students before showing the demonstration. After a couple of minutes a multiple choice prediction is then presented to them. Then we show the demonstration and a short discussion follows.
 
 ```{iframe} https://www.youtube.com/embed/yJ2Qu7IOlDs?si=bVn2oxlUtIxl3CXi
 ```
