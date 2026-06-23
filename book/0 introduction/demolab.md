@@ -1,10 +1,12 @@
 (the-demonstration-laboratory)=
 # The Demonstration Laboratory
 
+<br>
+
 This source contains a collection of physics demonstrations tailored for university classroom lectures. The book is structured in accord with the so-called [Physics Instructional Resource Association (PIRA)](https://pira.wildapricot.org/).
 
 ```{important}
-Please note that this resource is still work in progress. However, all documented demos have been copied from the previous website de-monstrare.nl into this resource. They are accessible in the form of a hyperlink to the previous website de-monstrare.nl. Our new demos will also include media content such as video recordings of the individual demos.
+Please note that this resource will continue to be work in progress as it is meant to be a ‘living’, ‘ever-growing’ repository. 
 ```
 
 (how-we-work)=
@@ -95,7 +97,3 @@ At our department we apply the **predict**-method as much as possible. (The disc
 ```{iframe} https://www.youtube.com/embed/yJ2Qu7IOlDs?si=bVn2oxlUtIxl3CXi
 ```
 
-## References
-```{bibliography}
-:filter: docname in docnames
-```

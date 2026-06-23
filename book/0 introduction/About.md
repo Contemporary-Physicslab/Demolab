@@ -1,6 +1,7 @@
 # About this book
 
-This book started off as a collection of pdf's from the '90s. We realised this was a valuable but static and outdated archive. We envisioned an updated online and dynamic repository of physics demonstrations which is accessible to all. By utilizing [GitHub](https://github.com) we would enable others to contribute, allow them to offer suggestions, fix bugs, while maintaining version control and ensuring quality. Our ultimate goal is to create a ‘living’, ‘ever-growing’ repository where the quality of the demonstrations can be continuously enhanced through active contributions from fellow educators, see {ref}`fig_infograph`. 
+<br>
+This book started off as a collection of pdf's from the '90s. We realised this was a valuable but static and outdated archive. We envisioned an updated online and dynamic repository of physics demonstrations which is accessible to all. By utilizing [GitHub](https://github.com) we would enable others to contribute, allow them to offer suggestions, fix bugs, while maintaining version control and ensuring quality. Our ultimate goal was to create a ‘living’, ‘ever-growing’ repository where the quality of the demonstrations could be continuously enhanced through active contributions from fellow educators, see {ref}`fig_infograph`. 
 
 ```{figure} Infographic.png
 :width: 100%
@@ -30,8 +31,8 @@ Freek Pols
 
 ## Authors
 Egbert Balsma  
-Peter Kikstra
-...
+Peter Kikstra  
+
 
 ## Contributors
 Hanna den Hartog  
@@ -41,7 +42,10 @@ Carola van der Muren (and her team of TA's)
 
 ## Licences
 CC-BY-4.0  
-All drawings have been made by Hanna den Hartog. The videos were mainly recorded for the various courses at the Applied Physics and Nanobiology program at Delft University of Technology.
+All drawings have been made by Hanna den Hartog. The videos were mainly recorded for the various courses at the Applied Physics and Nanobiology program at Delft University of Technology.  
+Rhett Allain allowed use to re-use his amazing videos on physics demonstrations.
+
+
 
 ## Disclaimer
 The demonstrations presented in this book are not claimed to be original. Many of them are inspired by, adapted from, or closely related to demonstrations that have been developed and published by physics educators, researchers, and institutions worldwide.
