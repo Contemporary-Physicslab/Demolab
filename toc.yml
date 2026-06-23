@@ -216,409 +216,409 @@ project:
               children:
                 - file: book/1 mechanics/1R properties of matter/1R10 Hookes Law/1R1001 Hookes Law/1R1001.md
 
-    # - title: 2 Fluid Mechanics
-    #   children:
-    #     - title: 2B Statics
-    #       children:
-    #         - title: 2B20 Static Pressure
-    #           children:
-    #             - file: book/2 fluid mechanics/2B statics/2B20 Static Pressure/2B2001 Rotating Liquid/2B2001.md
+    - title: 2 Fluid Mechanics
+      children:
+        - title: 2B Statics
+          children:
+            - title: 2B20 Static Pressure
+              children:
+                - file: book/2 fluid mechanics/2B statics/2B20 Static Pressure/2B2001 Rotating Liquid/2B2001.md
 
-    #     - title: 2C Dynamics
-    #       children:
-    #         - title: 2C20 Bernoulli Force
-    #           children:
-    #             - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2001 Magnus Effect/2C2001.md
-    #             - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2002 Magnus Effect/2C2002.md
-    #         - title: 2C40 Turbulent
-    #           children:
-    #             - title: Tornado Tower
-    #               children: []
+        - title: 2C Dynamics
+          children:
+            - title: 2C20 Bernoulli Force
+              children:
+                - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2001 Magnus Effect/2C2001.md
+                - file: book/2 fluid mechanics/2C dynamics/2C20 Bernoulli Force/2C2002 Magnus Effect/2C2002.md
+            - title: 2C40 Turbulent
+              children:
+                - title: Tornado Tower
+                  children: []
 
-    # - title: 3 Oscillations and Waves
-    #   children:
-    #     - title: 3A Oscillations
-    #       children:
-    #         - title: 3A10 Pendula
-    #           children:
-    #             - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1001 Mathematical Pendulum/3A1001.md
-    #             - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1002 Mathematical Pendulum/3A1002.md
-    #             - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1003 Mathematical Pendulum/3A1003.md
-    #             - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1004 Chaotic Pendulum/3A1004.md
-    #         - title: 3A15 Physical Pendula
-    #           children:
-    #             - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1501 Physical Pendulum/3A1501.md
-    #             - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1502 Physical Pendulum/3A1502.md
-    #             - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1503 Physical Pendulum/3A1503.md
-    #         - title: 3A40 Simple
-    #           children:
-    #             - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4001 Mathematical Pendulum/3A4001.md
-    #             - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4002 Mathematical Pendulum/3A4002.md
-    #             - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4003 Simple Harmonic/3A4003.md
-    #             - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4004 Simple Harmonic/3A4004.md
-    #             - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4005 Simple Harmonic/3A4005.md
-    #         - title: 3A50 Damped
-    #           children:
-    #             - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5001 Damped Harmonic/3A5001.md
-    #             - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5002 Damped Galvanometer/3A5002.md
-    #         - title: 3A95 Nonlinear
-    #           children:
-    #             - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A9501 Fakir/3A9501.md
-    #             - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A9502 Chaotic Pendulum/3A9502.md
+    - title: 3 Oscillations and Waves
+      children:
+        - title: 3A Oscillations
+          children:
+            - title: 3A10 Pendula
+              children:
+                - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1001 Mathematical Pendulum/3A1001.md
+                - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1002 Mathematical Pendulum/3A1002.md
+                - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1003 Mathematical Pendulum/3A1003.md
+                - file: book/3 oscillations and waves/3A osc/3A10 Pendula/3A1004 Chaotic Pendulum/3A1004.md
+            - title: 3A15 Physical Pendula
+              children:
+                - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1501 Physical Pendulum/3A1501.md
+                - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1502 Physical Pendulum/3A1502.md
+                - file: book/3 oscillations and waves/3A osc/3A15 Physical Pendula/3A1503 Physical Pendulum/3A1503.md
+            - title: 3A40 Simple
+              children:
+                - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4001 Mathematical Pendulum/3A4001.md
+                - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4002 Mathematical Pendulum/3A4002.md
+                - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4003 Simple Harmonic/3A4003.md
+                - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4004 Simple Harmonic/3A4004.md
+                - file: book/3 oscillations and waves/3A osc/3A40 Simple/3A4005 Simple Harmonic/3A4005.md
+            - title: 3A50 Damped
+              children:
+                - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5001 Damped Harmonic/3A5001.md
+                - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5002 Damped Galvanometer/3A5002.md
+            - title: 3A95 Nonlinear
+              children:
+                - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A9501 Fakir/3A9501.md
+                - file: book/3 oscillations and waves/3A osc/3A95 Non Linear/3A9502 Chaotic Pendulum/3A9502.md
 
-    #     - title: 3B Waves
-    #       children:
-    #         - title: 3B10 Transverse
-    #           children:
-    #             - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1001 Reflections of Transverse Pulses/3B1001.md
-    #             - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1002 Speed of a Single Pulse on Different Strings/3B1002.md
-    #             - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1003 Reflections of Transverse Pulses/3B1003.md
-    #             - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1004 Speed of a Single Pulse on Different Strings/3B1004.md
-    #             - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1005 Transverse Traveling Wave/3B1005.md
-    #             - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1006 Transverse Traveling Wave/3B1006.md
-    #         - title: 3B20 Longitudinal
-    #           children:
-    #             - file: book/3 oscillations and waves/3B wave/3B20 Longitudinal/3B2001 Reflected Sound Pulses/3B2001.md
-    #         - title: 3B22 Standing
-    #           children:
-    #             - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2201 deBroglie Applied to Bohr/3B2201.md
-    #             - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2202 Handheld Standing Waves/3B2202.md
-    #             - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2203 Kundts Tube/3B2203.md
-    #             - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2204 Sonometer by Hand/3B2204.md
-    #             - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2205 Plucking a String/3B2205.md
-    #             - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2206 Microwave Oven Standing Waves/3B2206.md
-    #         - title: 3B25 Impedance and Dispersion
-    #           children:
-    #             - file: book/3 oscillations and waves/3B wave/3B25 Impendance and Dispersion/3B2501 Impedance Matching/3B2501.md
-    #         - title: 3B40 Doppler
-    #           children:
-    #             - file: book/3 oscillations and waves/3B wave/3B40 Doppler/3B4001 Doppler/3B4001.md
+        - title: 3B Waves
+          children:
+            - title: 3B10 Transverse
+              children:
+                - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1001 Reflections of Transverse Pulses/3B1001.md
+                - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1002 Speed of a Single Pulse on Different Strings/3B1002.md
+                - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1003 Reflections of Transverse Pulses/3B1003.md
+                - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1004 Speed of a Single Pulse on Different Strings/3B1004.md
+                - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1005 Transverse Traveling Wave/3B1005.md
+                - file: book/3 oscillations and waves/3B wave/3B10 Transverse/3B1006 Transverse Traveling Wave/3B1006.md
+            - title: 3B20 Longitudinal
+              children:
+                - file: book/3 oscillations and waves/3B wave/3B20 Longitudinal/3B2001 Reflected Sound Pulses/3B2001.md
+            - title: 3B22 Standing
+              children:
+                - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2201 deBroglie Applied to Bohr/3B2201.md
+                - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2202 Handheld Standing Waves/3B2202.md
+                - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2203 Kundts Tube/3B2203.md
+                - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2204 Sonometer by Hand/3B2204.md
+                - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2205 Plucking a String/3B2205.md
+                - file: book/3 oscillations and waves/3B wave/3B22 Standing/3B2206 Microwave Oven Standing Waves/3B2206.md
+            - title: 3B25 Impedance and Dispersion
+              children:
+                - file: book/3 oscillations and waves/3B wave/3B25 Impendance and Dispersion/3B2501 Impedance Matching/3B2501.md
+            - title: 3B40 Doppler
+              children:
+                - file: book/3 oscillations and waves/3B wave/3B40 Doppler/3B4001 Doppler/3B4001.md
 
-    #     - title: 3C Acoustics
-    #       children:
-    #         - title: 3C50 Wave Analysis and Synthesis
-    #           children:
-    #             - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
+        - title: 3C Acoustics
+          children:
+            - title: 3C50 Wave Analysis and Synthesis
+              children:
+                - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
 
-    # - title: 4 Thermodynamics
-    #   children:
-    #     - title: 4A Thermal Properties of Matter
-    #       children:
-    #         - title: 4A10 Thermometry
-    #           children:
-    #             - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A1001 Constant Volume Gas Thermometer/4A1001.md
-    #             - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A1002 Inverted Thermometer/4A1002.md
+    - title: 4 Thermodynamics
+      children:
+        - title: 4A Thermal Properties of Matter
+          children:
+            - title: 4A10 Thermometry
+              children:
+                - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A1001 Constant Volume Gas Thermometer/4A1001.md
+                - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A1002 Inverted Thermometer/4A1002.md
     
-    #     - title: 4B Heat and the First Law
-    #       children:
-    #         - title: 4B10 Heat Capacity and Specific Heat
-    #           children:
-    #             - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B1001 Joules Experiment/4B1001.md
-    #         - title: 4B20 Convection
-    #           children:
-    #             - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B2001 Cooling by Insulation/4B2001.md
-    #         - title: 4B30 Conduction
-    #           children:
-    #             - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B3001 Cooling by Insulation/4B3001.md
-    #         - title: 4B40 Radiation
-    #           children:
-    #             - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4001 Cooling by Insulation/4B4001.md
-    #             - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4002 StefanBoltzmann Law for Radiation/4B4002.md
-    #         - title: 4B60 Mechanical Equivalent of Heat
-    #           children:
-    #             - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6001 Joules Experiment/4B6001.md
-    #             - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6002 Smashing/4B6002.md
-    #             - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6003 Dropping Lead Shot/4B6003 Dropping Lead Shot.md
-    #         - title: 4B70 Adiabatic Processes
-    #           children:
-    #             - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7001 Clements and Desormes Experiment/4B7001.md
-    #             - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7002 Fire Pump/4B7002.md
+        - title: 4B Heat and the First Law
+          children:
+            - title: 4B10 Heat Capacity and Specific Heat
+              children:
+                - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B1001 Joules Experiment/4B1001.md
+            - title: 4B20 Convection
+              children:
+                - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B2001 Cooling by Insulation/4B2001.md
+            - title: 4B30 Conduction
+              children:
+                - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B3001 Cooling by Insulation/4B3001.md
+            - title: 4B40 Radiation
+              children:
+                - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4001 Cooling by Insulation/4B4001.md
+                - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4002 StefanBoltzmann Law for Radiation/4B4002.md
+            - title: 4B60 Mechanical Equivalent of Heat
+              children:
+                - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6001 Joules Experiment/4B6001.md
+                - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6002 Smashing/4B6002.md
+                - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6003 Dropping Lead Shot/4B6003 Dropping Lead Shot.md
+            - title: 4B70 Adiabatic Processes
+              children:
+                - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7001 Clements and Desormes Experiment/4B7001.md
+                - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B7002 Fire Pump/4B7002.md
     
-    #     - title: 4C Change of State
-    #       children:
-    #         - title: 4C10 pVT Surfaces
-    #           children:
-    #             - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C1001 Compressing a Gas/4C1001.md
-    #             - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C1002 Work PdV/4C1002.md
-    #         - title: 4C30 Phase Changes Liquid Gas
-    #           children:
-    #             - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes Liquid Gas/4C3001 Boiling to Freeze/4C3001.md
-    #             - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes Liquid Gas/4C3002 Triple point water/4C3002.md
-    #         - title: 4C31 Cooling by Evaporation
-    #           children:
-    #             - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C3101 Evaporating Ether/4C3101.md                
-    #         - title: 4C33 Vapor Pressure
-    #           children:
-    #             - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C3301 Dippy Bird/4C3301.md
-    #             - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C3302 Boiling Water at Reduced Pressure/4C3302.md
+        - title: 4C Change of State
+          children:
+            - title: 4C10 pVT Surfaces
+              children:
+                - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C1001 Compressing a Gas/4C1001.md
+                - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C1002 Work PdV/4C1002.md
+            - title: 4C30 Phase Changes Liquid Gas
+              children:
+                - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes Liquid Gas/4C3001 Boiling to Freeze/4C3001.md
+                - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes Liquid Gas/4C3002 Triple point water/4C3002.md
+            - title: 4C31 Cooling by Evaporation
+              children:
+                - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C3101 Evaporating Ether/4C3101.md                
+            - title: 4C33 Vapor Pressure
+              children:
+                - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C3301 Dippy Bird/4C3301.md
+                - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C3302 Boiling Water at Reduced Pressure/4C3302.md
     
-    #     - title: 4D Kinetic Theory
-    #       children:
-    #         - title: 4D10 Brownian Motion
-    #           children:
-    #             - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D1001 Brownian Motion/4D1001.md
-    #         - title: 4D30 Kinetic Motion
-    #           children:
-    #             - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3001 Radiometer of Crooks/4D3001.md
-    #             - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3002 Rain of Balls/4D3002.md
+        - title: 4D Kinetic Theory
+          children:
+            - title: 4D10 Brownian Motion
+              children:
+                - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D1001 Brownian Motion/4D1001.md
+            - title: 4D30 Kinetic Motion
+              children:
+                - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3001 Radiometer of Crooks/4D3001.md
+                - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3002 Rain of Balls/4D3002.md
     
-    #     - title: 4F Entropy and the Second Law
-    #       children:
-    #         - title: 4F10 Entropy
-    #           children:
-    #             - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1001 Falling Down or Falling Up/4F1001.md
-    #             - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1002 Irreversible Process/4F1002.md
-    #             - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1003 Violation of the Entropy Law/4F1003.md
-    #         - title: 4F30 Heat Cycles
-    #           children:
-    #             - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3001 Dippy Bird/4F3001.md
-    #             - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3002 Stirling Engine/4F3002.md
+        - title: 4F Entropy and the Second Law
+          children:
+            - title: 4F10 Entropy
+              children:
+                - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1001 Falling Down or Falling Up/4F1001.md
+                - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1002 Irreversible Process/4F1002.md
+                - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F1003 Violation of the Entropy Law/4F1003.md
+            - title: 4F30 Heat Cycles
+              children:
+                - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3001 Dippy Bird/4F3001.md
+                - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F3002 Stirling Engine/4F3002.md
 
-    # - title: 5 Electromagnetism
-    #   children:
-    #     - title: 5A Electrostatics
-    #       children:
-    #         - title: 5A10 Producing Static Charge
-    #           children:
-    #             - file: book/5 EM/5A electrostatics/5A10 Producing Static Charge/5A1001 E Field in Material/5A1001.md
-    #         - title: 5A20 Coulomb’s Law
-    #           children:
-    #             - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A2001 Coulombs Law/5A2001.md
-    #             - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A2002 E Field in Material/5A2002.md
-    #         - title: 5A40 Induced Charge
-    #           children:
-    #             - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4001 Charging by Induction/5A4001.md
-    #             - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4002 Polarising a Dielectric/5A4002.md
-    #             - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4003 E Field in Material/5A4003.md
-    #             - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4004 Water Dropper/5A4004.md
-    #         - title: 5A50 Electrostatic Machines
-    #           children:
-    #             - file: book/5 EM/5A electrostatics/5A50 Electrostatic Machines/5A5001 Water Dropper/5A5001.md
+    - title: 5 Electromagnetism
+      children:
+        - title: 5A Electrostatics
+          children:
+            - title: 5A10 Producing Static Charge
+              children:
+                - file: book/5 EM/5A electrostatics/5A10 Producing Static Charge/5A1001 E Field in Material/5A1001.md
+            - title: 5A20 Coulomb’s Law
+              children:
+                - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A2001 Coulombs Law/5A2001.md
+                - file: book/5 EM/5A electrostatics/5A20 Coulombs Law/5A2002 E Field in Material/5A2002.md
+            - title: 5A40 Induced Charge
+              children:
+                - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4001 Charging by Induction/5A4001.md
+                - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4002 Polarising a Dielectric/5A4002.md
+                - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4003 E Field in Material/5A4003.md
+                - file: book/5 EM/5A electrostatics/5A40 Induced Charge/5A4004 Water Dropper/5A4004.md
+            - title: 5A50 Electrostatic Machines
+              children:
+                - file: book/5 EM/5A electrostatics/5A50 Electrostatic Machines/5A5001 Water Dropper/5A5001.md
 
-    #     - title: 5B Electric Fields and Potential
-    #       children:
-    #         - title: 5B10 Electric Fields
-    #           children:
-    #             - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B1001 Charge and Field/5B1001.md
-    #             - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B1002 Charge is on the Outside/5B1002.md
-    #         - title: 5B20 Gauss’s Law
-    #           children:
-    #             - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2001 Gauss Law/5B2001.md
-    #             - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2002 Charge is on the Outside/5B2002.md
-    #             - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2003 Charge and Field/5B2003.md
+        - title: 5B Electric Fields and Potential
+          children:
+            - title: 5B10 Electric Fields
+              children:
+                - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B1001 Charge and Field/5B1001.md
+                - file: book/5 EM/5B electric fields and potential/5B10 Electric Fields/5B1002 Charge is on the Outside/5B1002.md
+            - title: 5B20 Gauss’s Law
+              children:
+                - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2001 Gauss Law/5B2001.md
+                - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2002 Charge is on the Outside/5B2002.md
+                - file: book/5 EM/5B electric fields and potential/5B20 Gauss Law/5B2003 Charge and Field/5B2003.md
 
-    #     - title: 5C Capacitance
-    #       children:
-    #         - title: 5C10 Capacitors
-    #           children:
-    #             - file: book/5 EM/5C capacitance/5C10 Capacitors/5C1020 Capacitor Spacing between the Plates/5C1020.md
-    #         - title: 5C20 Dielectric
-    #           children:
-    #             - file: book/5 EM/5C capacitance/5C20 Dielectric/5C2001 Polarising a Dielectric/5C2001.md
-    #             - file: book/5 EM/5C capacitance/5C20 Dielectric/5C2002 Capacitor/5C2002.md
-    #         - title: 5C30 Energy Stored in a Capacitor
-    #           children:
-    #             - file: book/5 EM/5C capacitance/5C30 Energy stored in a capacitor/5C3001 Capacitor/5C3001.md
+        - title: 5C Capacitance
+          children:
+            - title: 5C10 Capacitors
+              children:
+                - file: book/5 EM/5C capacitance/5C10 Capacitors/5C1020 Capacitor Spacing between the Plates/5C1020.md
+            - title: 5C20 Dielectric
+              children:
+                - file: book/5 EM/5C capacitance/5C20 Dielectric/5C2001 Polarising a Dielectric/5C2001.md
+                - file: book/5 EM/5C capacitance/5C20 Dielectric/5C2002 Capacitor/5C2002.md
+            - title: 5C30 Energy Stored in a Capacitor
+              children:
+                - file: book/5 EM/5C capacitance/5C30 Energy stored in a capacitor/5C3001 Capacitor/5C3001.md
 
-    #     - title: 5D Resistance
-    #       children:
-    #         - title: 5D20 Resistivity and Temperature
-    #           children:
-    #             - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2001 PTC/5D2001.md
-    #             - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2002 NTC/5D2002.md
+        - title: 5D Resistance
+          children:
+            - title: 5D20 Resistivity and Temperature
+              children:
+                - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2001 PTC/5D2001.md
+                - file: book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2002 NTC/5D2002.md
 
-    #     - title: 5F DC Circuits
-    #       children:
-    #         - title: 5F15 Power and Energy
-    #           children:
-    #             - file: book/5 EM/5F DC circuits/5F15 Power and Energy/5F1501 Fuse Wires Parallel/5F1501.md
-    #         - title: 5F20 Circuit Analysis
-    #           children:
-    #             - file: book/5 EM/5F DC circuits/5F20 Circuit Analysis/5F2001 Fuse Wires Parallel/5F2001.md
+        - title: 5F DC Circuits
+          children:
+            - title: 5F15 Power and Energy
+              children:
+                - file: book/5 EM/5F DC circuits/5F15 Power and Energy/5F1501 Fuse Wires Parallel/5F1501.md
+            - title: 5F20 Circuit Analysis
+              children:
+                - file: book/5 EM/5F DC circuits/5F20 Circuit Analysis/5F2001 Fuse Wires Parallel/5F2001.md
 
-    #     - title: 5G Magnetic Materials
-    #       children:
-    #         - title: 5G20 Magnet Domains and Magnetization
-    #           children:
-    #             - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G2001 Barkhausen Effect/5G2001.md
-    #             - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G2002 Barkhausen Effect/5G2002.md
-    #         - title: 5G40 Hysteresis
-    #           children:
-    #             - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G4001 Barkhausen Effect/5G4001.md
-    #             - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G4002 Barkhausen Effect/5G4002.md
+        - title: 5G Magnetic Materials
+          children:
+            - title: 5G20 Magnet Domains and Magnetization
+              children:
+                - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G2001 Barkhausen Effect/5G2001.md
+                - file: book/5 EM/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G2002 Barkhausen Effect/5G2002.md
+            - title: 5G40 Hysteresis
+              children:
+                - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G4001 Barkhausen Effect/5G4001.md
+                - file: book/5 EM/5G magnetic materials/5G40 Hysteresis/5G4002 Barkhausen Effect/5G4002.md
 
-    #     - title: 5H Magnetic Fields and Forces
-    #       children:
-    #         - title: 5H10 Magnetic Fields
-    #           children:
-    #             - file: book/5 EM/5H magnetic fields and forces/5H10 Magnetic Fields/5H1001 Magnetic Fields/5H1001.md
-    #         - title: 5H20 Forces on Magnets
-    #           children:
-    #             - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H2001 Force between Magnets/5H2001.md
-    #             - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H2002 Force between Magnets/5H2002.md
-    #         - title: 5H30 Force on Moving Charges
-    #           children:
-    #             - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3002 Force on Electrons in a Magnetic Field/5H3002.md
-    #         - title: 5H40 Force on Current Wires
-    #           children:
-    #             - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4001 Force Effect of Current/5H4001.md
-    #             - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4002 Lorentz Force/5H4002.md
-    #             - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4003 Lorentz Force/5H4003.md
-    #             - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4004 Parallel Wires/5H4004.md
-    #         - title: 5H50 Torques on Coils
-    #           children:
-    #             - file: book/5 EM/5H magnetic fields and forces/5H50 Torques on Coils/5H5001 Current Loop in Magnetic Field/5H5001.md
+        - title: 5H Magnetic Fields and Forces
+          children:
+            - title: 5H10 Magnetic Fields
+              children:
+                - file: book/5 EM/5H magnetic fields and forces/5H10 Magnetic Fields/5H1001 Magnetic Fields/5H1001.md
+            - title: 5H20 Forces on Magnets
+              children:
+                - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H2001 Force between Magnets/5H2001.md
+                - file: book/5 EM/5H magnetic fields and forces/5H20 Forces on Magnets/5H2002 Force between Magnets/5H2002.md
+            - title: 5H30 Force on Moving Charges
+              children:
+                - file: book/5 EM/5H magnetic fields and forces/5H30 Force on Moving Charges/5H3002 Force on Electrons in a Magnetic Field/5H3002.md
+            - title: 5H40 Force on Current Wires
+              children:
+                - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4001 Force Effect of Current/5H4001.md
+                - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4002 Lorentz Force/5H4002.md
+                - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4003 Lorentz Force/5H4003.md
+                - file: book/5 EM/5H magnetic fields and forces/5H40 Force on Current Wires/5H4004 Parallel Wires/5H4004.md
+            - title: 5H50 Torques on Coils
+              children:
+                - file: book/5 EM/5H magnetic fields and forces/5H50 Torques on Coils/5H5001 Current Loop in Magnetic Field/5H5001.md
 
-    #     - title: 5J Inductance
-    #       children:
-    #         - title: 5J10 Self Inductance
-    #           children:
-    #             - file: book/5 EM/5J inductance/5J10 Self Inductance/5J1001 Self Inductance in AC Circuit/5J1001.md
-    #     - title: 5K Electromagnetic Induction
-    #       children:
-    #         - title: 5K10 Induced Currents and Forces
-    #           children:
-    #             - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K1001 Damped Galvanometer/5K1001.md
-    #             - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K1002 Skipping Rope/5K1002.md
-    #         - title: 5K20 Eddy Currents
-    #           children:
-    #             - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K2001 Aragos Compass Needle/5K2001.md
-    #             - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K2002 Aragos Disk/5K2002.md
-    #         - title: 5K30 Transformers
-    #           children:
-    #             - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K3001 Electric Power Transmission Line/5K3001.md
-    #             - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K3002 Transformer/5K3002.md
-    #         - title: 5K40 Motors and Generators
-    #           children:
-    #             - file: book/5 EM/5K electromagnetic induction/5K40 Motors and Generators/5K4001 Electric Motor/5K4001.md
+        - title: 5J Inductance
+          children:
+            - title: 5J10 Self Inductance
+              children:
+                - file: book/5 EM/5J inductance/5J10 Self Inductance/5J1001 Self Inductance in AC Circuit/5J1001.md
+        - title: 5K Electromagnetic Induction
+          children:
+            - title: 5K10 Induced Currents and Forces
+              children:
+                - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K1001 Damped Galvanometer/5K1001.md
+                - file: book/5 EM/5K electromagnetic induction/5K10 Induced Currents and Forces/5K1002 Skipping Rope/5K1002.md
+            - title: 5K20 Eddy Currents
+              children:
+                - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K2001 Aragos Compass Needle/5K2001.md
+                - file: book/5 EM/5K electromagnetic induction/5K20 Eddy Currents/5K2002 Aragos Disk/5K2002.md
+            - title: 5K30 Transformers
+              children:
+                - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K3001 Electric Power Transmission Line/5K3001.md
+                - file: book/5 EM/5K electromagnetic induction/5K30 Transformers/5K3002 Transformer/5K3002.md
+            - title: 5K40 Motors and Generators
+              children:
+                - file: book/5 EM/5K electromagnetic induction/5K40 Motors and Generators/5K4001 Electric Motor/5K4001.md
 
-    #     - title: 5L AC Circuits
-    #       children:
-    #         - title: 5L20 LCR Circuits AC
-    #           children:
-    #             - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2001 Self Inductance in AC Circuit/5L2001.md
-    #             - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2002 Phase/5L2002.md
-    #             - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2003 LRC Circuits/5L2003.md
+        - title: 5L AC Circuits
+          children:
+            - title: 5L20 LCR Circuits AC
+              children:
+                - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2001 Self Inductance in AC Circuit/5L2001.md
+                - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2002 Phase/5L2002.md
+                - file: book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2003 LRC Circuits/5L2003.md
 
-    #     - title: 5N Electromagnetic Radiation
-    #       children:
-    #         - title: 5N10 Transmission Lines and Antennas
-    #           children:
-    #             - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N1001 Electromagnetic Waves Lecher Lines/5N1001.md
-    #             - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N1002 Microwave Oven Standing Waves/5N1002.md
+        - title: 5N Electromagnetic Radiation
+          children:
+            - title: 5N10 Transmission Lines and Antennas
+              children:
+                - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N1001 Electromagnetic Waves Lecher Lines/5N1001.md
+                - file: book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N1002 Microwave Oven Standing Waves/5N1002.md
     
-    # - title: 6 Optics
-    #   children:
-    #     - title: 6A Geometrical Optics
-    #       children:
-    #         - title: 6A01 Speed of Light
-    #           children:
-    #             - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A0101 Foucault Michelson/6A0101.md
-    #         - title: 6A10 Reflection From Flat Surfaces
-    #           children:
-    #             - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A1001 Confusing Mirrors/6A1001.md
-    #             - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A1002 Corner Cube/6A1002.md
-    #         - title: 6A40 Refractive Index
-    #           children:
-    #             - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4001 Chromatic Aberration/6A4001.md
-    #             - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4002 Curved Lightbeams/6A4002.md
-    #         - title: 6A42 Refraction at Flat Surfaces
-    #           children: []
-    #         - title: 6A44 Total Internal Reflection
-    #           children:
-    #             - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4402 Tunneling/6A4402.md
-    #         - title: 6A60 Thin Lens
-    #           children:
-    #             - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A6001 Chromatic Aberration/6A6001.md
-    #         - title: 6A70 Optical Instruments
-    #           children:
-    #             - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A7001 Magnifying Glass/6A7001.md
+    - title: 6 Optics
+      children:
+        - title: 6A Geometrical Optics
+          children:
+            - title: 6A01 Speed of Light
+              children:
+                - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A0101 Foucault Michelson/6A0101.md
+            - title: 6A10 Reflection From Flat Surfaces
+              children:
+                - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A1001 Confusing Mirrors/6A1001.md
+                - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A1002 Corner Cube/6A1002.md
+            - title: 6A40 Refractive Index
+              children:
+                - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4001 Chromatic Aberration/6A4001.md
+                - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4002 Curved Lightbeams/6A4002.md
+            - title: 6A42 Refraction at Flat Surfaces
+              children: []
+            - title: 6A44 Total Internal Reflection
+              children:
+                - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4402 Tunneling/6A4402.md
+            - title: 6A60 Thin Lens
+              children:
+                - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A6001 Chromatic Aberration/6A6001.md
+            - title: 6A70 Optical Instruments
+              children:
+                - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A7001 Magnifying Glass/6A7001.md
     
-    #     - title: 6B Photometry
-    #       children:
-    #         - title: 6B30 Radiation Pressure
-    #           children:
-    #             - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B3001 Radiation Pressure/6B3001.md
+        - title: 6B Photometry
+          children:
+            - title: 6B30 Radiation Pressure
+              children:
+                - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B3001 Radiation Pressure/6B3001.md
     
-    #     - title: 6C Diffraction
-    #       children:
-    #         - title: 6C10 Diffraction From Two Sources
-    #           children:
-    #             - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1001 Resolution/6C1001.md
-    #             - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1002 Fraunhofer and Fresnel Diffraction/6C1002.md
-    #             - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1003 Youngs Double Slit/6C1003.md
-    #         - title: 6C20 Diffraction Around Objects
-    #           children:
-    #             - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2001 Diffraction introduction/6C2001.md
-    #             - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2002 Diffraction Single Slit/6C2002.md
-    #             - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2003 Diffraction Single Slit/6C2003.md
-    #             - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2004 Fraunhofer and Fresnel Diffraction/6C2004.md
+        - title: 6C Diffraction
+          children:
+            - title: 6C10 Diffraction From Two Sources
+              children:
+                - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1001 Resolution/6C1001.md
+                - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1002 Fraunhofer and Fresnel Diffraction/6C1002.md
+                - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C1003 Youngs Double Slit/6C1003.md
+            - title: 6C20 Diffraction Around Objects
+              children:
+                - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2001 Diffraction introduction/6C2001.md
+                - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2002 Diffraction Single Slit/6C2002.md
+                - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2003 Diffraction Single Slit/6C2003.md
+                - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C2004 Fraunhofer and Fresnel Diffraction/6C2004.md
    
-    #     - title: 6D Interference
-    #       children:
-    #         - title: 6D10 Interference From Two Sources
-    #           children:
-    #             - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1001 Fresnel Double Mirror/6D1001.md
-    #             - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1002 Fresnel Double Prism/6D1002.md
-    #             - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1003 Lloyds Mirror/6D1003.md
-    #             - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1004 Youngs Double Slit/6D1004.md
-    #         - title: 6D20 Lasers
-    #           children:
-    #             - file: book/6 optics/6D interference/6D20 Lasers/6D2001 Speckle Spots and random Diffraction/6D2001.md
-    #         - title: 6D30 Thin Films
-    #           children:
-    #             - file: book/6 optics/6D interference/6D30 Thin Films/6D3001 Newtons Rings/6D3001.md
-    #             - file: book/6 optics/6D interference/6D30 Thin Films/6D3002 Newtons Rings/6D3002.md
-    #             - file: book/6 optics/6D interference/6D30 Thin Films/6D3003 Oil Film/6D3003.md
-    #             - file: book/6 optics/6D interference/6D30 Thin Films/6D3004 Soap Film/6D3004.md
+        - title: 6D Interference
+          children:
+            - title: 6D10 Interference From Two Sources
+              children:
+                - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1001 Fresnel Double Mirror/6D1001.md
+                - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1002 Fresnel Double Prism/6D1002.md
+                - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1003 Lloyds Mirror/6D1003.md
+                - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D1004 Youngs Double Slit/6D1004.md
+            - title: 6D20 Lasers
+              children:
+                - file: book/6 optics/6D interference/6D20 Lasers/6D2001 Speckle Spots and random Diffraction/6D2001.md
+            - title: 6D30 Thin Films
+              children:
+                - file: book/6 optics/6D interference/6D30 Thin Films/6D3001 Newtons Rings/6D3001.md
+                - file: book/6 optics/6D interference/6D30 Thin Films/6D3002 Newtons Rings/6D3002.md
+                - file: book/6 optics/6D interference/6D30 Thin Films/6D3003 Oil Film/6D3003.md
+                - file: book/6 optics/6D interference/6D30 Thin Films/6D3004 Soap Film/6D3004.md
     
-    #     - title: 6F Color
-    #       children:
-    #         - title: 6F30 Dispersion
-    #           children:
-    #             - file: book/6 optics/6F color/6F30 Dispersion/6F3001 Chromatic Aberration/6F3001.md
+        - title: 6F Color
+          children:
+            - title: 6F30 Dispersion
+              children:
+                - file: book/6 optics/6F color/6F30 Dispersion/6F3001 Chromatic Aberration/6F3001.md
     
-    #     - title: 6H Polarisation
-    #       children:
-    #         - title: 6H20 Reflection
-    #           children:
-    #             - file: book/6 optics/6H polarisation/6H20 Reflection/6H2001 Brewsters Angle/6H2001.md
-    #             - file: book/6 optics/6H polarisation/6H20 Reflection/6H2002 Brewsters Angle/6H2002.md
-    #             - file: book/6 optics/6H polarisation/6H20 Reflection/6H2003 Brewsters Angle/6H2003.md
-    #         - title: 6H35 Birefringence
-    #           children:
-    #             - file: book/6 optics/6H polarisation/6H35 Birefringence/6H3501 Brewsters Angle/6H3501.md
+        - title: 6H Polarisation
+          children:
+            - title: 6H20 Reflection
+              children:
+                - file: book/6 optics/6H polarisation/6H20 Reflection/6H2001 Brewsters Angle/6H2001.md
+                - file: book/6 optics/6H polarisation/6H20 Reflection/6H2002 Brewsters Angle/6H2002.md
+                - file: book/6 optics/6H polarisation/6H20 Reflection/6H2003 Brewsters Angle/6H2003.md
+            - title: 6H35 Birefringence
+              children:
+                - file: book/6 optics/6H polarisation/6H35 Birefringence/6H3501 Brewsters Angle/6H3501.md
 
-    # - title: 7 Modern Physics
-    #   children:
-    #     - title: 7A Quantum Effects
-    #       children:
-    #         - title: 7A50 Wave Mechanics
-    #           children:
-    #             - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5001 deBroglie Applied to Bohr/7A5001.md
-    #             - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5002 Tunneling/7A5002.md
-    #         - title: 7A60 X ray and Electron Diffraction
-    #           children:
-    #             - file: book/7 modern physics/7A quantum effects/7A60 X ray and Electron Diffraction/7A6001 Bragg Scattering/7A6001.md
+    - title: 7 Modern Physics
+      children:
+        - title: 7A Quantum Effects
+          children:
+            - title: 7A50 Wave Mechanics
+              children:
+                - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5001 deBroglie Applied to Bohr/7A5001.md
+                - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5002 Tunneling/7A5002.md
+            - title: 7A60 X ray and Electron Diffraction
+              children:
+                - file: book/7 modern physics/7A quantum effects/7A60 X ray and Electron Diffraction/7A6001 Bragg Scattering/7A6001.md
    
-    #     - title: 7B Atomic Physics
-    #       children:
-    #         - title: 7B10 Spectra
-    #           children:
-    #             - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B1001 Balmer Series/7B1001.md
-    #         - title: 7B50 Atomic Models
-    #           children:
-    #             - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B5001 deBroglie Applied to Bohr/7B5001.md
+        - title: 7B Atomic Physics
+          children:
+            - title: 7B10 Spectra
+              children:
+                - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B1001 Balmer Series/7B1001.md
+            - title: 7B50 Atomic Models
+              children:
+                - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B5001 deBroglie Applied to Bohr/7B5001.md
     
-    #     - title: 7F Relativity
-    #       children:
-    #         - title: 7F10 Relativity
-    #           children:
-    #             - file: book/7 modern physics/7F relativity/7F10 Relativity/7F1001 E mc2/7F1001.md
+        - title: 7F Relativity
+          children:
+            - title: 7F10 Relativity
+              children:
+                - file: book/7 modern physics/7F relativity/7F10 Relativity/7F1001 E mc2/7F1001.md
 
-    # - title: 9 Miscellaneous
-    #   children:
-    #     - file: book/9 miscellaneous/test.md
-    #     - title: Show the Physics
-    #       url: https://interactivetextbooks.tudelft.nl/showthephysics
-    #       children: []
+    - title: 9 Miscellaneous
+      children:
+        - file: book/9 miscellaneous/test.md
+        - title: Show the Physics
+          url: https://interactivetextbooks.tudelft.nl/showthephysics
+          children: []
