@@ -13,7 +13,7 @@ project:
     - id: output-pdf
       format: typst
       template: https://github.com/myst-templates/plain_typst_book.git
-      output: export/demobook.pdf
+      output: admin/demobook.pdf
 # additional options #
 
 # Include a figure at the cover page
