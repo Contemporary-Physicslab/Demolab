@@ -1,3 +1,4 @@
+(Other)=
 # Other resources
 
 There are some great resources online:
