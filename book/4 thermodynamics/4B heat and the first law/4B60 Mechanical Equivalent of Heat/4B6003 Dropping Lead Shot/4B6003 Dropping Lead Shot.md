@@ -12,7 +12,7 @@
 ## Diagram
    
 ```{figure} figures/figure_4B60.03a.jpg
-:width: 70%  
+:width: 70%
 :label: 4b6003_figure_4B6003a.jpg  
 
 . 
@@ -27,13 +27,13 @@
 ## Presentation   
 The tube is rotated several times over 180 degrees, such that the lead shot drops from one end of the tube to the other end (see the enlarged @4b6003_figure_4B60.03b.jpg). 
 ```{figure} figures/figure_4B60.03b.jpg
-:width: 70%  
+:width: 70%
 :label: 4b6003_figure_4B60.03b.jpg  
 
 . 
 ```
 ```{figure} figures/figure_4B60.03c.jpg
-:width: 70%  
+:width: 70%
 :label: 4b6003_figure_4B60.03c.jpg  
 
 . 

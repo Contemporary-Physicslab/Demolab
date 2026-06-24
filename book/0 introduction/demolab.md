@@ -60,16 +60,10 @@ Freek Pols
 (introduction)=
 ## Demonstrations
 
-```{index} how to demonstrate
-```
-
 "How to demonstrate" means how to do it as effectively as possible and with “effective” we mean that students really learn from the presented demonstrations. Demonstrations are _commonly believed to help students learn science and to stimulate their interest_. The latter objective is generally achieved: studies show that _demonstrations are among students’ favorite elements of a course_. But research on the first objective also shows that _traditional demonstrations do not effectively help students grasp the underlying scientific concepts or correct their misconceptions_, while teachers often think the opposite. Here we refer to two studies:
 
 * "Why may students fail to learn from demonstrations?" {cite:p}`roth1997may`
 * "Classroom demonstrations: Learning tools or entertainment?" {cite:p}`crouch2004classroom`
-
-```{index} student engagement, presenting demonstrations, knowledge retention
-```
 
 These studies show that students who (only) passively observe demonstrations will _understand the underlying concepts no better than students who do not see the demonstration at all!_ Learning is enhanced, however, by increasing student engagement. The key to an effective demonstration is interaction with the audience. _Students who predict the demonstration outcome before seeing it, display significant greater understanding_ {cite:p}`crouch2004classroom`.
 
