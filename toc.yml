@@ -260,7 +260,7 @@ project:
             - title: 3A50 Damped
               children:
                 - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5001 Damped Harmonic/3A5001.md
-                - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5001 Damped Harmonic/3A5001 Copy.md
+                - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5001 Damped Harmonic Copy/3A5003.md
                 - file: book/3 oscillations and waves/3A osc/3A50 Damped/3A5002 Damped Galvanometer/3A5002.md
             - title: 3A95 Nonlinear
               children:
