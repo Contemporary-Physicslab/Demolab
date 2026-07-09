@@ -37,15 +37,7 @@ Ron Haaksman
 ***Albert Einstein***
 ```
 
-
-De monstrare = "Demonstrate"
-
-"De" has the meaning of: intensification
-
-"monstrare" = to show
-
-
-From the Latin version of this verb it can be seen that we aim to show phenomena in an intensified way. Ron is staff of the demonstration facility and his profession is to demonstrate.
+Ron is staff of the demonstration facility and his profession is to demonstrate.
 
 We propose demonstrations to the professors and in consultation with them we select what will be shown. In developing, designing, and preparing the demonstrations we also make choices about how to show it effectively to our students. Finally we show the demonstrations during the lecture when it is the appropriate moment so it fits in with the matter taught during that lecture.
 
