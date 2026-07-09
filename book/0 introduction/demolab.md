@@ -57,27 +57,27 @@ Freek Pols
 * "Why may students fail to learn from demonstrations?" {cite:p}`roth1997may`
 * "Classroom demonstrations: Learning tools or entertainment?" {cite:p}`crouch2004classroom`
 
-These studies show that students who (only) passively observe demonstrations will _understand the underlying concepts no better than students who do not see the demonstration at all!_ Learning is enhanced, however, by increasing student engagement. The key to an effective demonstration is interaction with the audience. _Students who predict the demonstration outcome before seeing it, display significant greater understanding_ {cite:p}`crouch2004classroom`.
+These studies show that students who (only) passively observe demonstrations will _understand the underlying concepts no better than students who do not see the demonstration at all!_ However, learning is enhanced by increasing student engagement. The key to an effective demonstration is interaction with the audience. _Students who predict the demonstration outcome before seeing it, display significantly greater understanding_ {cite:p}`crouch2004classroom`.
 
 Three different approaches to demonstrations:
 
 ***Observe***:
 
-1. students observe the demonstration.
-2. hear the instructor's explanation.
+1. students observe the demonstration
+2. hear the instructor's explanation
 
 ***Predict***:
 
 1. students record their prediction (without discussion)
-2. observe the demonstration.
-3. hear the instructor's explanation.
+2. observe the demonstration
+3. hear the instructor's explanation
 
 ***Discuss***:
 
 1. students record their prediction (without discussion)
-2. observe the demonstration.
+2. observe the demonstration
 3. discuss it with fellow students
-4. hear the instructor's explanation.
+4. hear the instructor's explanation
 
 At our department we apply the **predict**-method as much as possible. (The discuss-method requires too much time in our way of demonstrating). In the large lecture halls we question the prediction of the students before showing the demonstration. After a couple of minutes a multiple choice prediction is then presented to them. Then we show the demonstration and a short discussion follows.
 
