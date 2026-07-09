@@ -2,7 +2,7 @@
 # About this book
 
 <br>
-This book started off as a collection of pdf's from the '90s. We realised this was a valuable but static and outdated archive. We envisioned the creation of an updated online and dynamic repository of physics demonstrations which is accessible to all. By utilizing [GitHub](https://github.com) we would enable others to contribute, allowing them to offer suggestions, fix bugs, while maintaining version control and ensuring quality. Our ultimate goal was to create and maintain a ‘living’, ‘ever-growing’ repository where the quality of the demonstrations could be continuously enhanced through active contributions from fellow educators, see {ref}`fig_infograph`. 
+This book started off as a collection of pdf's from the '90s. We realised this was a valuable but static and outdated archive. We envisioned the creation of an updated online and dynamic repository of physics demonstrations which is accessible to all. By utilizing [GitHub](https://github.com) we would enable others to contribute, allowing them to offer suggestions, fix bugs, while maintaining version control and ensuring quality. Our ultimate goal was to create and maintain a ‘living’ and ‘ever-growing’ repository where the quality of the demonstrations could be continuously enhanced through active contributions from fellow educators, see {ref}`fig_infograph`. 
 
 ```{figure} Infographic.png
 :width: 100%
