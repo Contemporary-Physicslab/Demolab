@@ -2,7 +2,7 @@
 # About this book
 
 <br>
-This book started off as a collection of pdf's from the '90s. We realised this was a valuable but static and outdated archive. We envisioned an updated online and dynamic repository of physics demonstrations which is accessible to all. By utilizing [GitHub](https://github.com) we would enable others to contribute, allow them to offer suggestions, fix bugs, while maintaining version control and ensuring quality. Our ultimate goal was to create a ‘living’, ‘ever-growing’ repository where the quality of the demonstrations could be continuously enhanced through active contributions from fellow educators, see {ref}`fig_infograph`. 
+This book started off as a collection of pdf's from the '90s. We realised this was a valuable but static and outdated archive. We envisioned the creation of an updated online and dynamic repository of physics demonstrations which is accessible to all. By utilizing [GitHub](https://github.com) we would enable others to contribute, allowing them to offer suggestions, fix bugs, while maintaining version control and ensuring quality. Our ultimate goal was to create and maintain a ‘living’, ‘ever-growing’ repository where the quality of the demonstrations could be continuously enhanced through active contributions from fellow educators, see {ref}`fig_infograph`. 
 
 ```{figure} Infographic.png
 :width: 100%
@@ -13,18 +13,18 @@ Our approach to creating a living, ever-growing repository.
 
 Hence we set to work, converting the pdf's to markdown files (the work of Luuk Fröling) and creating a first [Jupyter Book](https://jupyterbook.org/). All drawings were remade, resulting in high-quality vector drawings (the work of Hanna den Hertog). New pictures and video's were made (with the help of Tom Haanstra). Where possible, python codes where added, allowing for simulations and data analysis. This resulted in this book 'The Demonstration Laboratory'. 
 
-We consider the book not finished, as it is intended as an ever expanding repository. The book is an output of a dynamic repository. We can add and change demonstrations, improve the quality of descriptions, add code, and so on. You may contribute to this, and you will be recognized for it! 
+We consider the book not finished, as it is intended to be an ever expanding repository. The book is an output of a dynamic repository. We can add and change demonstrations, improve the quality of descriptions, add code, and so on. You may contribute to this, and you will be recognized for it! 
 
 
 ## Your contribution
 
 You can contribute to this book in various ways: 
-1. Enhance the quality by adding comments and/or suggestions using the feedback button button.
-2. Add content
+1. Enhance the quality by adding comments and/or suggestions using the feedback button.
+2. Add content.
 
-If you spot a typo, if something is not clear, or anything needs to be adjusted, click either the feedback button or the edit this page button at the top of the screen and open an issue. (You need to have a github account though). We then receive a notification of your query, and we will address the issue as soon as possible.
+If you spot a typo, if something is not clear, or anything needs to be adjusted, click either the feedback button or the edit this page button at the top of the screen to open an issue (you need to have a GitHub account though). We then receive a notification of your query, and we will address the issue as soon as possible.
 
-If you want to add your material, you can do so by contacting us. You can become a team member of the github repository and are allowed to add materials. If you are interested in how this works, see the [teachbooks manual](https://teachbooks.io/manual/workflows/collaboration.html) on the matter.
+If you want to add your material, you can do so by contacting us. You can become a team member of the GitHub repository and get permission to add materials. If you are interested in how this works, see the [teachbooks manual](https://teachbooks.io/manual/workflows/collaboration.html) on this matter.
 
 ## Editors
 Ron Haaksman  
@@ -51,9 +51,9 @@ Rhett Allain allowed use to re-use his amazing videos on physics demonstrations.
 ## Disclaimer
 The demonstrations presented in this book are not claimed to be original. Many of them are inspired by, adapted from, or closely related to demonstrations that have been developed and published by physics educators, researchers, and institutions worldwide.
 
-As this collection was built upon an existing repository of demonstrations and has evolved through contributions from multiple sources, it is possible that some demonstrations lack complete attribution despite our best efforts to identify and acknowledge original contributors. We have conducted several reviews to verify sources and provide appropriate credit where known; however, omissions or inaccuracies may remain.
+As this collection was built upon an existing repository of demonstrations and has evolved through contributions from multiple sources, it is possible that some demonstrations lack complete attribution of recognition despite our best efforts to identify and acknowledge original contributors. We have conducted several reviews to verify sources and provide appropriate credit where known; however, omissions or inaccuracies may remain.
 
-If you recognize a demonstration for which attribution is missing, incomplete, or incorrect, we would greatly appreciate hearing from you. Please contact the editors so that we can correct the record in future editions and ensure proper recognition of the original creators.
+If you recognize a demonstration for which attribution of recognition is missing, incomplete, or incorrect, we would greatly appreciate hearing from you. Please contact the editors so that we can correct the record in future editions and ensure proper recognition of the original creators.
 
 Our goal is to support the sharing of effective physics demonstrations while respecting and acknowledging the contributions of the educators and practitioners who developed them.
 
