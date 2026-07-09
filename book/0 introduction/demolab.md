@@ -32,7 +32,7 @@ Ron Haaksman
 ## How to Demonstrate
 
 ```{note}
-In the matter of physics, the first lessons should contain nothing but what is experimental and interesting to see. 
+"In the matter of physics, the first lessons should contain nothing but what is experimental and interesting to see."
 
 ***Albert Einstein***
 ```
