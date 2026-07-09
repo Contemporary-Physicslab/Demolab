@@ -7,7 +7,7 @@
 This source contains a collection of physics demonstrations tailored for university classroom lectures. The book is structured in accord with the so-called [Physics Instructional Resource Association (PIRA)](https://pira.wildapricot.org/).
 
 ```{important}
-Please note that this resource will continue to be work in progress as it is meant to be a ‘living’, ‘ever-growing’ repository. 
+Please note that this resource will continue to be work in progress as it is meant to be a ‘living’ and ‘ever-growing’ repository. 
 ```
 
 (how-we-work)=
