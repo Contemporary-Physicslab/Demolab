@@ -12,7 +12,7 @@ Please note that this resource will continue to be work in progress as it is mea
 
 (how-we-work)=
 ## How we Work
-We consider our ***Demonstration Room*** as a "shop" and we "sell" our demonstrations for free. We encourage professors to use our facilities and expertise. We need to encourage them because professors are not familiar with all the ideas available and they certainly have no time to investigate all the possibilities that exist.
+We consider our ***Demonstration Laboratory*** as a "shop" and we "sell" our demonstrations for free. We encourage professors to use our facilities and expertise. We need to encourage them because professors are not familiar with all the ideas available and they certainly have no time to investigate all the possibilities that exist.
 
 1. we have many demos in stock
 2. we know the physics
