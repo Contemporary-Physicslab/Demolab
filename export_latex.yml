@@ -1,0 +1,7 @@
+version: 1
+project:
+  exports:
+    - format: pdf
+      template: https://github.com/saullocastro/latex_template.git
+      output: exports/report_tex.pdf
+      id: tex_pdf

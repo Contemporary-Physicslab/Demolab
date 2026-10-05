@@ -11,11 +11,14 @@ project:
   
 extends:
   - toc.yml
-  - export_typst.yml
+  # - export_typst.yml
+  - export_latex.yml
   - https://gitlab.tudelft.nl/oicm/assets/-/raw/main/plugins.yml?ref_type=heads
   - https://gitlab.tudelft.nl/oicm/assets/-/raw/main/style.yml?ref_type=heads
   
 site:
+  options:
+    folder: false
   actions:
     - title: PDF
       url: ./export/demobook
